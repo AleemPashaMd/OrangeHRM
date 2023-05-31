@@ -1,0 +1,27 @@
+package com.OrangeHRMApplicationWebPagesTests;
+
+import org.testng.annotations.Test;
+
+import com.BaseTest.BaseTest;
+import com.OrangeHRMApplicationWebPages.OrangeHRMHomePage;
+import com.OrangeHRMApplicationWebPages.OrangeHRMLogInPage;
+import com.Utility.Log;
+
+public class OrangeHRMHomePageTest extends BaseTest{
+
+	@Test(priority=1,description="Validating ORHM Application Home Page Admin Text")
+	public void validatingHomePageAdminTextTest()
+	{
+		OrangeHRMLogInPage logInPage=new OrangeHRMLogInPage();
+		logInPage.validatingLogIn("aleem","Aleem@69" );
+		
+		Log.info("Validation of LogIn functionality Successfull");
+		
+		OrangeHRMHomePage homePage=new OrangeHRMHomePage();
+		homePage.validatingHomePageAdminText();
+		
+		Log.info(" Validating Home Page Admin Text Successfull - Naviagated to Home Page");
+	}
+	
+	
+}

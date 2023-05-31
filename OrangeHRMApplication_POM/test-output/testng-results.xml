@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-05-31T11:56:13 IST" name="Default suite" finished-at="2023-05-31T11:57:18 IST" duration-ms="64881">
+    <groups>
+    </groups>
+    <test started-at="2023-05-31T11:56:13 IST" name="Default test" finished-at="2023-05-31T11:57:18 IST" duration-ms="64881">
+      <class name="com.OrangeHRMApplicationWebPagesTests.OrangeHRMHomePageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.OrangeHRMApplicationWebPagesTests.OrangeHRMHomePageTest@7bab3f1a]" started-at="2023-05-31T11:56:13 IST" name="setUp" finished-at="2023-05-31T11:56:24 IST" duration-ms="11192" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="validatingHomePageAdminTextTest()[pri:1, instance:com.OrangeHRMApplicationWebPagesTests.OrangeHRMHomePageTest@7bab3f1a]" started-at="2023-05-31T11:56:24 IST" name="validatingHomePageAdminTextTest" description="Validating ORHM Application Home Page Admin Text" finished-at="2023-05-31T11:56:41 IST" duration-ms="17056" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatingHomePageAdminTextTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.OrangeHRMApplicationWebPagesTests.OrangeHRMHomePageTest@7bab3f1a]" started-at="2023-05-31T11:56:41 IST" name="tearDown" finished-at="2023-05-31T11:56:42 IST" duration-ms="234" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.OrangeHRMApplicationWebPagesTests.OrangeHRMHomePageTest@7bab3f1a]" started-at="2023-05-31T11:56:42 IST" name="setUp" finished-at="2023-05-31T11:56:44 IST" duration-ms="2224" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="validatingHomePagePIMTextTest()[pri:2, instance:com.OrangeHRMApplicationWebPagesTests.OrangeHRMHomePageTest@7bab3f1a]" started-at="2023-05-31T11:56:44 IST" name="validatingHomePagePIMTextTest" description="Validating ORHM Application Home Page PIM Text" finished-at="2023-05-31T11:56:54 IST" duration-ms="9906" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatingHomePagePIMTextTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.OrangeHRMApplicationWebPagesTests.OrangeHRMHomePageTest@7bab3f1a]" started-at="2023-05-31T11:56:54 IST" name="tearDown" finished-at="2023-05-31T11:56:54 IST" duration-ms="209" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.OrangeHRMApplicationWebPagesTests.OrangeHRMHomePageTest@7bab3f1a]" started-at="2023-05-31T11:56:54 IST" name="setUp" finished-at="2023-05-31T11:56:56 IST" duration-ms="2071" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="validatingHomePageLeaveTextTest()[pri:4, instance:com.OrangeHRMApplicationWebPagesTests.OrangeHRMHomePageTest@7bab3f1a]" started-at="2023-05-31T11:56:56 IST" name="validatingHomePageLeaveTextTest" description="Validating ORHM Application Home Page Leave Text" finished-at="2023-05-31T11:57:05 IST" duration-ms="9465" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatingHomePageLeaveTextTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.OrangeHRMApplicationWebPagesTests.OrangeHRMHomePageTest@7bab3f1a]" started-at="2023-05-31T11:57:05 IST" name="tearDown" finished-at="2023-05-31T11:57:06 IST" duration-ms="186" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.OrangeHRMApplicationWebPagesTests.OrangeHRMHomePageTest@7bab3f1a]" started-at="2023-05-31T11:57:06 IST" name="setUp" finished-at="2023-05-31T11:57:08 IST" duration-ms="2223" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="validatingHomePageTimeTextTest()[pri:5, instance:com.OrangeHRMApplicationWebPagesTests.OrangeHRMHomePageTest@7bab3f1a]" started-at="2023-05-31T11:57:08 IST" name="validatingHomePageTimeTextTest" description="Validating ORHM Application Home Page Time Text" finished-at="2023-05-31T11:57:18 IST" duration-ms="9843" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatingHomePageTimeTextTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.OrangeHRMApplicationWebPagesTests.OrangeHRMHomePageTest@7bab3f1a]" started-at="2023-05-31T11:57:18 IST" name="tearDown" finished-at="2023-05-31T11:57:18 IST" duration-ms="181" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.OrangeHRMApplicationWebPagesTests.OrangeHRMHomePageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

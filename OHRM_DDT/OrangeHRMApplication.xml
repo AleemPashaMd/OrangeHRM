@@ -1,0 +1,36 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="OrangeHRM Application" parallel="tests">
+	<test name="LogInTest">
+		
+		<classes>
+			
+			<class name="com.TestCases.LogInTest"></class>
+			
+		</classes>
+		
+	</test>
+	
+	<test name="AddEmployeeTest">
+		
+		<classes>
+			
+			<class name="com.TestCases.AddEmployeeTest"></class>
+			
+		</classes>
+		
+	</test>
+	
+	
+	<test name="EmployeeListTest">
+		
+		<classes>
+			
+			<class name="com.TestCases.OHRM_CapturingEmployeeListTest"></class>
+			
+		</classes>
+		
+	</test>
+	
+	
+	
+</suite>

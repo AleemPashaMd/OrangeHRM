@@ -1,0 +1,63 @@
+package com.OrangeHRMApplicationWebPagesTests;
+
+import java.io.IOException;
+
+import org.testng.annotations.Test;
+
+import com.BaseTest.BaseTest;
+import com.OrangeHRMApplicationWebPages.OrangeHRMHomePage;
+import com.OrangeHRMApplicationWebPages.OrangeHRMLogInPage;
+import com.Utility.Log;
+
+public class OrangeHRMHomePageTest extends BaseTest{
+	
+	OrangeHRMLogInPageTest logInPage;
+	OrangeHRMHomePage homePage;
+
+	@Test(priority=1,description="Validating ORHM Application Home Page Admin Text")
+	public void validatingHomePageAdminTextTest() throws IOException
+	{
+		logInPage=new OrangeHRMLogInPageTest();
+		logInPage.validatingLogInTest();
+		
+		Log.info("Validation of LogIn functionality Successfull");
+		
+		homePage=new OrangeHRMHomePage();
+		homePage.validatingHomePageAdminText();
+		
+		Log.info(" Validating Home Page Admin Text Successfull - Naviagated to Home Page");
+	}
+	
+	@Test(priority=2,description="Validating ORHM Application Home Page PIM Text")
+	public void validatingHomePagePIMTextTest() throws IOException, InterruptedException
+	{
+		
+		logInPage.validatingLogInTest();
+		
+		Log.info("Validation of LogIn functionality Successfull");
+		
+		//Thread.sleep(10000);
+		
+		homePage.validatingHomePagePIMText();
+		
+		Log.info(" Validating Home Page PIM Text Successfull - Naviagated to Home Page");
+		
+	}
+	
+	@Test(priority=3,description="Validating ORHM Application Home Page Leave Text")
+	public void validatingHomePageLeaveTextTest() throws IOException
+	{
+		
+		logInPage.validatingLogInTest();
+		
+		Log.info("Validation of LogIn functionality Successfull");
+		
+		homePage.validatingHomePageLeaveText();
+		
+		Log.info(" Validating Home Page Leave Text Successfull - Naviagated to Home Page");
+		
+	}
+	
+	
+	
+}

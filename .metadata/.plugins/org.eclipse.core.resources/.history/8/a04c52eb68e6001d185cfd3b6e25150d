@@ -1,0 +1,27 @@
+package com.OrangeHRM;
+
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
+
+public class HomePage_AddEmployee {
+	
+	public static void main(String[] args) {
+		
+		WebDriver driver;
+		String applicationUrlAddress="http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/auth/login";
+		
+		System.setProperty("webdriver.chrome.driver","./browserDriverFiles/chromedriver.exe");
+		driver=new ChromeDriver();
+		driver.get(applicationUrlAddress);
+		
+		String OHRMHomePageTitle=driver.getTitle();
+
+		String expected_OHRMHomePage="OrangeHRM";
+		System.out.println("The expected title of the ORHMHomePage is:-"+expected_OHRMHomePage);
+		String actual_ORHMHomePage=OHRMHomePageTitle;
+		System.out.println("The expected title of the ORHMHomePage is:-"+actual_ORHMHomePage);
+		
+		
+	}
+
+}

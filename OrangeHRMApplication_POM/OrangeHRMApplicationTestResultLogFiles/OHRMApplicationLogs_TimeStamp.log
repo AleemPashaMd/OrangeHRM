@@ -1,0 +1,1249 @@
+2023-05-27 17:27:06,600 - log -INFO - ****Chrome Browser Launched SuccessFully ****
+2023-05-27 17:27:17,218 - log -INFO - **** Chrome Browser Closed Successfully ****
+2023-05-27 17:27:19,198 - log -INFO - ****Chrome Browser Launched SuccessFully ****
+2023-05-27 17:27:20,680 - log -INFO - Validating LogIn Functionality
+2023-05-27 17:27:20,683 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-27 17:27:20,799 - log -INFO - **** Chrome Browser Closed Successfully ****
+2023-05-27 17:27:22,802 - log -INFO - ****Chrome Browser Launched SuccessFully ****
+2023-05-27 17:27:23,123 - log -INFO - Validating ORHM Application LogIn Page Logo
+2023-05-27 17:27:23,129 - log -INFO - OrangeHRM Application LogIn Page does not Contains OrangeHRM Logo - FAIL
+2023-05-27 17:27:23,133 - log -INFO -  OrangeHRM Appliction LogIn Page Logo existing
+2023-05-27 17:27:23,297 - log -INFO - **** Chrome Browser Closed Successfully ****
+2023-05-27 17:31:32,197 - log -INFO - ****Chrome Browser Launched SuccessFully ****
+2023-05-27 17:31:32,574 - log -INFO - The Actual LogInPage LogIn Panel Text is:- LOGIN Panel
+2023-05-27 17:31:32,581 - log -INFO - The Expected LogInPage LogIn Panel Text is:- LOGIN Panel
+2023-05-27 17:31:32,608 - log -INFO - Failed To Navigate to OrangeHRM Application LogIn Page - LogIn Page Text Validation Failed
+2023-05-27 17:31:32,622 - log -INFO -  Validating LogIn Page LogInPanel Text Successfull - Naviagated to LogIN Page
+2023-05-27 17:31:32,928 - log -INFO - **** Chrome Browser Closed Successfully ****
+2023-05-27 17:31:34,746 - log -INFO - ****Chrome Browser Launched SuccessFully ****
+2023-05-27 17:31:35,911 - log -INFO - Validating LogIn Functionality
+2023-05-27 17:31:35,924 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-27 17:31:36,063 - log -INFO - **** Chrome Browser Closed Successfully ****
+2023-05-27 17:31:37,781 - log -INFO - ****Chrome Browser Launched SuccessFully ****
+2023-05-27 17:31:38,074 - log -INFO - Validating ORHM Application LogIn Page Logo
+2023-05-27 17:31:38,080 - log -INFO - OrangeHRM Application LogIn Page does not Contains OrangeHRM Logo - FAIL
+2023-05-27 17:31:38,085 - log -INFO -  OrangeHRM Appliction LogIn Page Logo existing
+2023-05-27 17:31:38,236 - log -INFO - **** Chrome Browser Closed Successfully ****
+2023-05-27 17:55:00,950 - log -INFO - ****Chrome Browser Launched SuccessFully ****
+2023-05-27 17:55:01,365 - log -INFO - The Actual LogInPage LogIn Panel Text is:- LOGIN Panel
+2023-05-27 17:55:01,372 - log -INFO - The Expected LogInPage LogIn Panel Text is:- LOGIN Panel
+2023-05-27 17:55:01,384 - log -INFO - Failed To Navigate to OrangeHRM Application LogIn Page - LogIn Page Text Validation Failed
+2023-05-27 17:55:01,391 - log -INFO -  Validating LogIn Page LogInPanel Text Successfull - Naviagated to LogIN Page
+2023-05-27 17:55:01,572 - log -INFO - **** Chrome Browser Closed Successfully ****
+2023-05-27 17:55:03,418 - log -INFO - ****Chrome Browser Launched SuccessFully ****
+2023-05-27 17:55:05,639 - log -INFO - Validating LogIn Functionality
+2023-05-27 17:55:05,650 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-27 17:55:07,498 - log -INFO - Validating LogIn Functionality
+2023-05-27 17:55:07,509 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-27 17:55:10,108 - log -INFO - Validating LogIn Functionality
+2023-05-27 17:55:10,121 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-27 17:55:12,950 - log -INFO - Validating LogIn Functionality
+2023-05-27 17:55:12,960 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-27 17:55:28,370 - log -INFO - Validating LogIn Functionality
+2023-05-27 17:55:28,386 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-27 17:55:28,671 - log -INFO - **** Chrome Browser Closed Successfully ****
+2023-05-27 17:55:30,396 - log -INFO - ****Chrome Browser Launched SuccessFully ****
+2023-05-27 17:55:30,692 - log -INFO - Validating ORHM Application LogIn Page Logo
+2023-05-27 17:55:30,696 - log -INFO - OrangeHRM Application LogIn Page does not Contains OrangeHRM Logo - FAIL
+2023-05-27 17:55:30,699 - log -INFO -  OrangeHRM Appliction LogIn Page Logo existing
+2023-05-27 17:55:30,824 - log -INFO - **** Chrome Browser Closed Successfully ****
+2023-05-27 22:37:25,705 - log -INFO - ****Chrome Browser Launched SuccessFully ****
+2023-05-27 22:37:27,154 - log -INFO - Validating LogIn Functionality
+2023-05-27 22:37:27,169 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-27 22:37:37,565 - log -INFO - **** Chrome Browser Closed Successfully ****
+2023-05-27 22:40:59,374 - log -INFO - ****Chrome Browser Launched SuccessFully ****
+2023-05-27 22:41:01,035 - log -INFO - Validating LogIn Functionality
+2023-05-27 22:41:01,056 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-27 22:41:11,305 - log -INFO - **** Chrome Browser Closed Successfully ****
+2023-05-27 22:42:56,941 - log -INFO - ****Chrome Browser Launched SuccessFully ****
+2023-05-27 22:42:58,236 - log -INFO - Validating LogIn Functionality
+2023-05-27 22:42:58,250 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-27 22:42:58,412 - log -INFO - **** Chrome Browser Closed Successfully ****
+2023-05-27 22:43:27,254 - log -INFO - ****Chrome Browser Launched SuccessFully ****
+2023-05-27 22:43:27,615 - log -INFO - The Actual LogInPage LogIn Panel Text is:- LOGIN Panel
+2023-05-27 22:43:27,621 - log -INFO - The Expected LogInPage LogIn Panel Text is:- LOGIN Panel
+2023-05-27 22:43:27,633 - log -INFO - Failed To Navigate to OrangeHRM Application LogIn Page - LogIn Page Text Validation Failed
+2023-05-27 22:43:27,638 - log -INFO -  Validating LogIn Page LogInPanel Text Successfull - Naviagated to LogIN Page
+2023-05-27 22:43:27,840 - log -INFO - **** Chrome Browser Closed Successfully ****
+2023-05-27 22:43:29,642 - log -INFO - ****Chrome Browser Launched SuccessFully ****
+2023-05-27 22:43:31,996 - log -INFO - Validating LogIn Functionality
+2023-05-27 22:43:32,001 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-27 22:43:33,231 - log -INFO - Validating LogIn Functionality
+2023-05-27 22:43:33,243 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-27 22:43:34,486 - log -INFO - Validating LogIn Functionality
+2023-05-27 22:43:34,497 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-27 22:43:35,789 - log -INFO - Validating LogIn Functionality
+2023-05-27 22:43:35,798 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-27 22:43:37,821 - log -INFO - Validating LogIn Functionality
+2023-05-27 22:43:37,829 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-27 22:43:38,067 - log -INFO - **** Chrome Browser Closed Successfully ****
+2023-05-27 22:43:39,819 - log -INFO - ****Chrome Browser Launched SuccessFully ****
+2023-05-27 22:43:40,118 - log -INFO - Validating ORHM Application LogIn Page Logo
+2023-05-27 22:43:40,121 - log -INFO - OrangeHRM Application LogIn Page does not Contains OrangeHRM Logo - FAIL
+2023-05-27 22:43:40,125 - log -INFO -  OrangeHRM Application LogIn Page Logo existing
+2023-05-27 22:43:40,264 - log -INFO - **** Chrome Browser Closed Successfully ****
+2023-05-27 22:45:10,465 - log -INFO - ****Chrome Browser Launched SuccessFully ****
+2023-05-27 22:45:11,708 - log -INFO - Validating LogIn Functionality
+2023-05-27 22:45:11,723 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-27 22:45:21,906 - log -INFO - **** Chrome Browser Closed Successfully ****
+2023-05-27 22:48:37,402 - log -INFO - ****Chrome Browser Launched SuccessFully ****
+2023-05-27 22:48:38,654 - log -INFO - Validating LogIn Functionality
+2023-05-27 22:48:38,664 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-27 22:48:48,887 - log -INFO - **** Chrome Browser Closed Successfully ****
+2023-05-27 22:50:04,318 - log -INFO - ****Chrome Browser Launched SuccessFully ****
+2023-05-27 22:50:05,555 - log -INFO - Validating LogIn Functionality
+2023-05-27 22:50:05,567 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-27 22:50:15,779 - log -INFO - **** Chrome Browser Closed Successfully ****
+2023-05-27 22:50:22,887 - log -INFO - ****Chrome Browser Launched SuccessFully ****
+2023-05-27 22:50:24,161 - log -INFO - Validating LogIn Functionality
+2023-05-27 22:50:24,170 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-27 22:50:34,387 - log -INFO - **** Chrome Browser Closed Successfully ****
+2023-05-28 12:35:49,146 - log -INFO - ****Chrome Browser Launched SuccessFully ****
+2023-05-28 12:35:50,640 - log -INFO - Validating LogIn Functionality
+2023-05-28 12:35:50,647 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 12:36:00,892 - log -INFO - **** Chrome Browser Closed Successfully ****
+2023-05-28 12:39:44,139 - log -INFO - ****Chrome Browser Launched SuccessFully ****
+2023-05-28 12:39:44,504 - log -INFO - The Actual LogInPage LogIn Panel Text is:- LOGIN Panel
+2023-05-28 12:39:44,510 - log -INFO - The Expected LogInPage LogIn Panel Text is:- LOGIN Panel
+2023-05-28 12:39:44,520 - log -INFO - Failed To Navigate to OrangeHRM Application LogIn Page - LogIn Page Text Validation Failed
+2023-05-28 12:39:44,526 - log -INFO -  Validating LogIn Page LogInPanel Text Successfull - Naviagated to LogIN Page
+2023-05-28 12:39:44,535 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 12:39:54,759 - log -INFO - **** Chrome Browser Closed Successfully ****
+2023-05-28 12:42:29,047 - log -INFO - ****Chrome Browser Launched SuccessFully ****
+2023-05-28 12:42:31,794 - log -INFO - Validating LogIn Functionality
+2023-05-28 12:42:31,805 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 12:42:33,339 - log -INFO - Validating LogIn Functionality
+2023-05-28 12:42:33,349 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 12:42:34,683 - log -INFO - Validating LogIn Functionality
+2023-05-28 12:42:34,700 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 12:42:36,046 - log -INFO - Validating LogIn Functionality
+2023-05-28 12:42:36,058 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 12:42:43,866 - log -INFO - Validating LogIn Functionality
+2023-05-28 12:42:43,871 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 12:42:43,876 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 12:42:43,953 - log -INFO - The Actual Text Of The OrangeHRM Application Home Page Admin is:- Admin
+2023-05-28 12:42:43,957 - log -INFO - The Expected Text Of The OrangeHRM Application Home Page Admin is:- Admin
+2023-05-28 12:42:43,969 - log -INFO - The Text Of The Admin is Not Matched:-FAIL
+2023-05-28 12:42:43,976 - log -INFO -  Validating Home Page Admin Text Successfull - Naviagated to Home Page
+2023-05-28 12:42:44,214 - log -INFO - **** Chrome Browser Closed Successfully ****
+2023-05-28 12:44:51,046 - log -INFO - ****Chrome Browser Launched SuccessFully ****
+2023-05-28 12:44:53,679 - log -INFO - Validating LogIn Functionality
+2023-05-28 12:44:53,687 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 12:44:55,041 - log -INFO - Validating LogIn Functionality
+2023-05-28 12:44:55,050 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 12:44:56,380 - log -INFO - Validating LogIn Functionality
+2023-05-28 12:44:56,391 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 12:44:57,711 - log -INFO - Validating LogIn Functionality
+2023-05-28 12:44:57,727 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 12:44:59,958 - log -INFO - Validating LogIn Functionality
+2023-05-28 12:44:59,963 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 12:44:59,970 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 12:45:00,047 - log -INFO - The Actual Text Of The OrangeHRM Application Home Page Admin is:- Admin
+2023-05-28 12:45:00,053 - log -INFO - The Expected Text Of The OrangeHRM Application Home Page Admin is:- Admin
+2023-05-28 12:45:00,062 - log -INFO - The Text Of The Admin is Not Matched:-FAIL
+2023-05-28 12:45:00,079 - log -INFO -  Validating Home Page Admin Text Successfull - Naviagated to Home Page
+2023-05-28 12:45:00,285 - log -INFO - **** Chrome Browser Closed Successfully ****
+2023-05-28 13:03:38,895 - log -INFO - ****Chrome Browser Launched SuccessFully ****
+2023-05-28 13:03:41,493 - log -INFO - Validating LogIn Functionality
+2023-05-28 13:03:41,511 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 13:03:42,922 - log -INFO - Validating LogIn Functionality
+2023-05-28 13:03:42,937 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 13:03:44,236 - log -INFO - Validating LogIn Functionality
+2023-05-28 13:03:44,251 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 13:03:45,627 - log -INFO - Validating LogIn Functionality
+2023-05-28 13:03:45,639 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 13:03:47,952 - log -INFO - Validating LogIn Functionality
+2023-05-28 13:03:47,961 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 13:03:47,967 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 13:03:48,034 - log -INFO - The Actual Text Of The OrangeHRM Application Home Page Admin is:- Admin
+2023-05-28 13:03:48,039 - log -INFO - The Expected Text Of The OrangeHRM Application Home Page Admin is:- Admin
+2023-05-28 13:03:48,049 - log -INFO - The Text Of The Admin is Not Matched:-FAIL
+2023-05-28 13:03:48,059 - log -INFO -  Validating Home Page Admin Text Successfull - Naviagated to Home Page
+2023-05-28 13:03:48,439 - log -INFO - **** Chrome Browser Closed Successfully ****
+2023-05-28 13:03:50,154 - log -INFO - ****Chrome Browser Launched SuccessFully ****
+2023-05-28 13:03:51,350 - log -INFO - Validating LogIn Functionality
+2023-05-28 13:03:51,359 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 13:03:52,741 - log -INFO - Validating LogIn Functionality
+2023-05-28 13:03:52,750 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 13:03:54,250 - log -INFO - Validating LogIn Functionality
+2023-05-28 13:03:54,260 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 13:03:55,800 - log -INFO - Validating LogIn Functionality
+2023-05-28 13:03:55,809 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 13:03:58,298 - log -INFO - Validating LogIn Functionality
+2023-05-28 13:03:58,303 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 13:03:58,307 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 13:03:58,527 - log -INFO - **** Chrome Browser Closed Successfully ****
+2023-05-28 13:07:48,137 - log -INFO - ****Chrome Browser Launched SuccessFully ****
+2023-05-28 13:07:52,842 - log -INFO - Validating LogIn Functionality
+2023-05-28 13:07:52,853 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 13:07:54,100 - log -INFO - Validating LogIn Functionality
+2023-05-28 13:07:54,112 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 13:07:55,651 - log -INFO - Validating LogIn Functionality
+2023-05-28 13:07:55,664 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 13:07:57,206 - log -INFO - Validating LogIn Functionality
+2023-05-28 13:07:57,213 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 13:07:59,718 - log -INFO - Validating LogIn Functionality
+2023-05-28 13:07:59,723 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 13:07:59,727 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 13:07:59,794 - log -INFO - The Actual Text Of The OrangeHRM Application Home Page Admin is:- Admin
+2023-05-28 13:07:59,799 - log -INFO - The Expected Text Of The OrangeHRM Application Home Page Admin is:- Admin
+2023-05-28 13:07:59,809 - log -INFO - The Text Of The Admin is Not Matched:-FAIL
+2023-05-28 13:07:59,817 - log -INFO -  Validating Home Page Admin Text Successfull - Naviagated to Home Page
+2023-05-28 13:08:00,069 - log -INFO - **** Chrome Browser Closed Successfully ****
+2023-05-28 13:08:01,875 - log -INFO - ****Chrome Browser Launched SuccessFully ****
+2023-05-28 13:08:03,059 - log -INFO - Validating LogIn Functionality
+2023-05-28 13:08:03,069 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 13:08:04,492 - log -INFO - Validating LogIn Functionality
+2023-05-28 13:08:04,502 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 13:08:06,003 - log -INFO - Validating LogIn Functionality
+2023-05-28 13:08:06,008 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 13:08:07,501 - log -INFO - Validating LogIn Functionality
+2023-05-28 13:08:07,505 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 13:08:09,924 - log -INFO - Validating LogIn Functionality
+2023-05-28 13:08:09,930 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 13:08:09,934 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 13:08:10,067 - log -INFO - **** Chrome Browser Closed Successfully ****
+2023-05-28 13:32:13,322 - log -INFO - ****Chrome Browser Launched SuccessFully ****
+2023-05-28 13:32:16,009 - log -INFO - Validating LogIn Functionality
+2023-05-28 13:32:16,026 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 13:32:17,355 - log -INFO - Validating LogIn Functionality
+2023-05-28 13:32:17,365 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 13:32:18,677 - log -INFO - Validating LogIn Functionality
+2023-05-28 13:32:18,688 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 13:32:19,989 - log -INFO - Validating LogIn Functionality
+2023-05-28 13:32:20,002 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 13:32:22,136 - log -INFO - Validating LogIn Functionality
+2023-05-28 13:32:22,139 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 13:32:22,144 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 13:32:22,224 - log -INFO - The Actual Text Of The OrangeHRM Application Home Page Admin is:- Admin
+2023-05-28 13:32:22,228 - log -INFO - The Expected Text Of The OrangeHRM Application Home Page Admin is:- Admin
+2023-05-28 13:32:22,236 - log -INFO - The Text Of The Admin is Not Matched:-FAIL
+2023-05-28 13:32:22,245 - log -INFO -  Validating Home Page Admin Text Successfull - Naviagated to Home Page
+2023-05-28 13:32:22,472 - log -INFO - **** Chrome Browser Closed Successfully ****
+2023-05-28 13:32:24,319 - log -INFO - ****Chrome Browser Launched SuccessFully ****
+2023-05-28 13:32:25,690 - log -INFO - Validating LogIn Functionality
+2023-05-28 13:32:25,704 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 13:32:27,271 - log -INFO - Validating LogIn Functionality
+2023-05-28 13:32:27,281 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 13:32:28,927 - log -INFO - Validating LogIn Functionality
+2023-05-28 13:32:28,935 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 13:32:30,578 - log -INFO - Validating LogIn Functionality
+2023-05-28 13:32:30,584 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 13:32:33,110 - log -INFO - Validating LogIn Functionality
+2023-05-28 13:32:33,115 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 13:32:33,119 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 13:32:33,339 - log -INFO - **** Chrome Browser Closed Successfully ****
+2023-05-28 13:37:06,679 - log -INFO - ****Chrome Browser Launched SuccessFully ****
+2023-05-28 13:37:09,358 - log -INFO - Validating LogIn Functionality
+2023-05-28 13:37:09,371 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 13:37:10,724 - log -INFO - Validating LogIn Functionality
+2023-05-28 13:37:10,735 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 13:37:12,066 - log -INFO - Validating LogIn Functionality
+2023-05-28 13:37:12,073 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 13:37:13,482 - log -INFO - Validating LogIn Functionality
+2023-05-28 13:37:13,498 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 13:37:15,766 - log -INFO - Validating LogIn Functionality
+2023-05-28 13:37:15,771 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 13:37:15,778 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 13:37:15,860 - log -INFO - The Actual Text Of The OrangeHRM Application Home Page Admin is:- Admin
+2023-05-28 13:37:15,865 - log -INFO - The Expected Text Of The OrangeHRM Application Home Page Admin is:- Admin
+2023-05-28 13:37:15,874 - log -INFO - The Text Of The Admin is Not Matched:-FAIL
+2023-05-28 13:37:15,883 - log -INFO -  Validating Home Page Admin Text Successfull - Naviagated to Home Page
+2023-05-28 13:37:16,136 - log -INFO - **** Chrome Browser Closed Successfully ****
+2023-05-28 13:37:18,031 - log -INFO - ****Chrome Browser Launched SuccessFully ****
+2023-05-28 13:37:19,332 - log -INFO - Validating LogIn Functionality
+2023-05-28 13:37:19,340 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 13:37:20,954 - log -INFO - Validating LogIn Functionality
+2023-05-28 13:37:20,962 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 13:37:22,507 - log -INFO - Validating LogIn Functionality
+2023-05-28 13:37:22,512 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 13:37:24,123 - log -INFO - Validating LogIn Functionality
+2023-05-28 13:37:24,127 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 13:37:26,705 - log -INFO - Validating LogIn Functionality
+2023-05-28 13:37:26,709 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 13:37:26,714 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 13:37:26,894 - log -INFO - **** Chrome Browser Closed Successfully ****
+2023-05-28 13:37:28,823 - log -INFO - ****Chrome Browser Launched SuccessFully ****
+2023-05-28 13:37:30,039 - log -INFO - Validating LogIn Functionality
+2023-05-28 13:37:30,047 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 13:37:31,563 - log -INFO - Validating LogIn Functionality
+2023-05-28 13:37:31,568 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 13:37:33,160 - log -INFO - Validating LogIn Functionality
+2023-05-28 13:37:33,166 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 13:37:34,770 - log -INFO - Validating LogIn Functionality
+2023-05-28 13:37:34,777 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 13:37:37,288 - log -INFO - Validating LogIn Functionality
+2023-05-28 13:37:37,292 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 13:37:37,296 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 13:37:37,451 - log -INFO - **** Chrome Browser Closed Successfully ****
+2023-05-28 13:38:35,514 - log -INFO - ****Chrome Browser Launched SuccessFully ****
+2023-05-28 13:38:38,164 - log -INFO - Validating LogIn Functionality
+2023-05-28 13:38:38,175 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 13:38:39,502 - log -INFO - Validating LogIn Functionality
+2023-05-28 13:38:39,515 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 13:38:40,960 - log -INFO - Validating LogIn Functionality
+2023-05-28 13:38:40,974 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 13:38:42,284 - log -INFO - Validating LogIn Functionality
+2023-05-28 13:38:42,298 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 13:38:44,521 - log -INFO - Validating LogIn Functionality
+2023-05-28 13:38:44,527 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 13:38:44,532 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 13:38:44,630 - log -INFO - The Actual Text Of The OrangeHRM Application Home Page Admin is:- Admin
+2023-05-28 13:38:44,636 - log -INFO - The Expected Text Of The OrangeHRM Application Home Page Admin is:- Admin
+2023-05-28 13:38:44,646 - log -INFO - The Text Of The Admin is Not Matched:-FAIL
+2023-05-28 13:38:44,655 - log -INFO -  Validating Home Page Admin Text Successfull - Naviagated to Home Page
+2023-05-28 13:38:44,903 - log -INFO - **** Chrome Browser Closed Successfully ****
+2023-05-28 13:38:46,946 - log -INFO - ****Chrome Browser Launched SuccessFully ****
+2023-05-28 13:38:48,257 - log -INFO - Validating LogIn Functionality
+2023-05-28 13:38:48,268 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 13:38:49,886 - log -INFO - Validating LogIn Functionality
+2023-05-28 13:38:49,895 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 13:38:51,515 - log -INFO - Validating LogIn Functionality
+2023-05-28 13:38:51,521 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 13:38:53,151 - log -INFO - Validating LogIn Functionality
+2023-05-28 13:38:53,162 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 13:38:55,704 - log -INFO - Validating LogIn Functionality
+2023-05-28 13:38:55,710 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 13:38:55,716 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 13:39:05,923 - log -INFO - **** Chrome Browser Closed Successfully ****
+2023-05-28 13:39:08,470 - log -INFO - ****Chrome Browser Launched SuccessFully ****
+2023-05-28 13:39:10,687 - log -INFO - Validating LogIn Functionality
+2023-05-28 13:39:10,697 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 13:39:11,899 - log -INFO - Validating LogIn Functionality
+2023-05-28 13:39:11,906 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 13:39:13,550 - log -INFO - Validating LogIn Functionality
+2023-05-28 13:39:13,557 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 13:39:15,260 - log -INFO - Validating LogIn Functionality
+2023-05-28 13:39:15,265 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 13:39:17,869 - log -INFO - Validating LogIn Functionality
+2023-05-28 13:39:17,873 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 13:39:17,877 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 13:39:18,033 - log -INFO - **** Chrome Browser Closed Successfully ****
+2023-05-28 13:47:01,283 - log -INFO - ****Chrome Browser Launched SuccessFully ****
+2023-05-28 13:47:04,044 - log -INFO - Validating LogIn Functionality
+2023-05-28 13:47:04,058 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 13:47:05,596 - log -INFO - Validating LogIn Functionality
+2023-05-28 13:47:05,601 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 13:47:06,903 - log -INFO - Validating LogIn Functionality
+2023-05-28 13:47:06,917 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 13:47:08,314 - log -INFO - Validating LogIn Functionality
+2023-05-28 13:47:08,328 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 13:47:10,624 - log -INFO - Validating LogIn Functionality
+2023-05-28 13:47:10,630 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 13:47:10,637 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 13:47:10,726 - log -INFO - The Actual Text Of The OrangeHRM Application Home Page Admin is:- Admin
+2023-05-28 13:47:10,732 - log -INFO - The Expected Text Of The OrangeHRM Application Home Page Admin is:- Admin
+2023-05-28 13:47:10,741 - log -INFO - The Text Of The Admin is Not Matched:-FAIL
+2023-05-28 13:47:10,752 - log -INFO -  Validating Home Page Admin Text Successfull - Naviagated to Home Page
+2023-05-28 13:47:10,989 - log -INFO - **** Chrome Browser Closed Successfully ****
+2023-05-28 13:47:12,913 - log -INFO - ****Chrome Browser Launched SuccessFully ****
+2023-05-28 13:47:14,217 - log -INFO - Validating LogIn Functionality
+2023-05-28 13:47:14,226 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 13:47:15,752 - log -INFO - Validating LogIn Functionality
+2023-05-28 13:47:15,757 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 13:47:17,370 - log -INFO - Validating LogIn Functionality
+2023-05-28 13:47:17,375 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 13:47:19,002 - log -INFO - Validating LogIn Functionality
+2023-05-28 13:47:19,006 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 13:47:21,732 - log -INFO - Validating LogIn Functionality
+2023-05-28 13:47:21,736 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 13:47:21,742 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 13:47:21,940 - log -INFO - **** Chrome Browser Closed Successfully ****
+2023-05-28 13:47:23,872 - log -INFO - ****Chrome Browser Launched SuccessFully ****
+2023-05-28 13:47:25,141 - log -INFO - Validating LogIn Functionality
+2023-05-28 13:47:25,152 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 13:47:26,652 - log -INFO - Validating LogIn Functionality
+2023-05-28 13:47:26,660 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 13:47:28,267 - log -INFO - Validating LogIn Functionality
+2023-05-28 13:47:28,277 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 13:47:29,857 - log -INFO - Validating LogIn Functionality
+2023-05-28 13:47:29,863 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 13:47:32,521 - log -INFO - Validating LogIn Functionality
+2023-05-28 13:47:32,524 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 13:47:32,528 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 13:47:32,725 - log -INFO - **** Chrome Browser Closed Successfully ****
+2023-05-28 13:48:13,842 - log -INFO - ****Chrome Browser Launched SuccessFully ****
+2023-05-28 13:48:16,498 - log -INFO - Validating LogIn Functionality
+2023-05-28 13:48:16,516 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 13:48:17,937 - log -INFO - Validating LogIn Functionality
+2023-05-28 13:48:17,944 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 13:48:19,361 - log -INFO - Validating LogIn Functionality
+2023-05-28 13:48:19,380 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 13:48:20,808 - log -INFO - Validating LogIn Functionality
+2023-05-28 13:48:20,823 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 13:48:22,843 - log -INFO - Validating LogIn Functionality
+2023-05-28 13:48:22,847 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 13:48:22,851 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 13:48:22,926 - log -INFO - The Actual Text Of The OrangeHRM Application Home Page Admin is:- Admin
+2023-05-28 13:48:22,930 - log -INFO - The Expected Text Of The OrangeHRM Application Home Page Admin is:- Admin
+2023-05-28 13:48:22,939 - log -INFO - The Text Of The Admin is Not Matched:-FAIL
+2023-05-28 13:48:22,949 - log -INFO -  Validating Home Page Admin Text Successfull - Naviagated to Home Page
+2023-05-28 13:48:23,166 - log -INFO - **** Chrome Browser Closed Successfully ****
+2023-05-28 13:48:24,980 - log -INFO - ****Chrome Browser Launched SuccessFully ****
+2023-05-28 13:48:26,314 - log -INFO - Validating LogIn Functionality
+2023-05-28 13:48:26,323 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 13:48:27,812 - log -INFO - Validating LogIn Functionality
+2023-05-28 13:48:27,822 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 13:48:29,443 - log -INFO - Validating LogIn Functionality
+2023-05-28 13:48:29,447 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 13:48:31,087 - log -INFO - Validating LogIn Functionality
+2023-05-28 13:48:31,091 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 13:48:33,633 - log -INFO - Validating LogIn Functionality
+2023-05-28 13:48:33,636 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 13:48:33,639 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 13:48:33,866 - log -INFO - **** Chrome Browser Closed Successfully ****
+2023-05-28 13:48:35,775 - log -INFO - ****Chrome Browser Launched SuccessFully ****
+2023-05-28 13:48:37,050 - log -INFO - Validating LogIn Functionality
+2023-05-28 13:48:37,058 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 13:48:38,491 - log -INFO - Validating LogIn Functionality
+2023-05-28 13:48:38,500 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 13:48:40,155 - log -INFO - Validating LogIn Functionality
+2023-05-28 13:48:40,167 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 13:48:41,784 - log -INFO - Validating LogIn Functionality
+2023-05-28 13:48:41,790 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 13:48:44,345 - log -INFO - Validating LogIn Functionality
+2023-05-28 13:48:44,349 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 13:48:44,358 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 13:48:44,563 - log -INFO - **** Chrome Browser Closed Successfully ****
+2023-05-28 13:51:16,143 - log -INFO - ****Chrome Browser Launched SuccessFully ****
+2023-05-28 13:51:18,765 - log -INFO - Validating LogIn Functionality
+2023-05-28 13:51:18,784 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 13:51:20,138 - log -INFO - Validating LogIn Functionality
+2023-05-28 13:51:20,144 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 13:51:21,532 - log -INFO - Validating LogIn Functionality
+2023-05-28 13:51:21,539 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 13:51:22,871 - log -INFO - Validating LogIn Functionality
+2023-05-28 13:51:22,882 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 13:51:25,347 - log -INFO - Validating LogIn Functionality
+2023-05-28 13:51:25,351 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 13:51:25,355 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 13:51:25,427 - log -INFO - The Actual Text Of The OrangeHRM Application Home Page Admin is:- Admin
+2023-05-28 13:51:25,432 - log -INFO - The Expected Text Of The OrangeHRM Application Home Page Admin is:- Admin
+2023-05-28 13:51:25,442 - log -INFO - The Text Of The Admin is Not Matched:-FAIL
+2023-05-28 13:51:25,451 - log -INFO -  Validating Home Page Admin Text Successfull - Naviagated to Home Page
+2023-05-28 13:51:25,672 - log -INFO - **** Chrome Browser Closed Successfully ****
+2023-05-28 13:51:27,524 - log -INFO - ****Chrome Browser Launched SuccessFully ****
+2023-05-28 13:51:28,882 - log -INFO - Validating LogIn Functionality
+2023-05-28 13:51:28,890 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 13:51:30,404 - log -INFO - Validating LogIn Functionality
+2023-05-28 13:51:30,412 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 13:51:32,009 - log -INFO - Validating LogIn Functionality
+2023-05-28 13:51:32,013 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 13:51:33,623 - log -INFO - Validating LogIn Functionality
+2023-05-28 13:51:33,628 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 13:51:36,209 - log -INFO - Validating LogIn Functionality
+2023-05-28 13:51:36,215 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 13:51:36,222 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 13:51:36,281 - log -INFO - The Actual Text Of The OrangeHRM Application Home Page PIM is:- PIM
+2023-05-28 13:51:36,285 - log -INFO - The Expected Text Of The OrangeHRM Application Home Page PIM is:- PIM
+2023-05-28 13:51:36,290 - log -INFO - The Text Of The PIM is Not Matched:-FAIL
+2023-05-28 13:51:36,295 - log -INFO -  Validating Home Page PIM Text Successfull - Naviagated to Home Page
+2023-05-28 13:51:36,488 - log -INFO - **** Chrome Browser Closed Successfully ****
+2023-05-28 13:51:38,282 - log -INFO - ****Chrome Browser Launched SuccessFully ****
+2023-05-28 13:51:39,577 - log -INFO - Validating LogIn Functionality
+2023-05-28 13:51:39,586 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 13:51:41,073 - log -INFO - Validating LogIn Functionality
+2023-05-28 13:51:41,085 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 13:51:42,775 - log -INFO - Validating LogIn Functionality
+2023-05-28 13:51:42,783 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 13:51:44,460 - log -INFO - Validating LogIn Functionality
+2023-05-28 13:51:44,465 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 13:51:47,493 - log -INFO - Validating LogIn Functionality
+2023-05-28 13:51:47,497 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 13:51:47,503 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 13:51:47,586 - log -INFO - The Actual Text Of The OrangeHRM Application Home Page Leave is:- Leave
+2023-05-28 13:51:47,591 - log -INFO - The Expected Text Of The OrangeHRM Application Home Page Leave is:- Leave
+2023-05-28 13:51:47,595 - log -INFO - The Text Of The Leave is Not Matched:-FAIL
+2023-05-28 13:51:47,599 - log -INFO -  Validating Home Page Leave Text Successfull - Naviagated to Home Page
+2023-05-28 13:51:47,774 - log -INFO - **** Chrome Browser Closed Successfully ****
+2023-05-28 13:56:01,979 - log -INFO - ****Chrome Browser Launched SuccessFully ****
+2023-05-28 13:56:04,611 - log -INFO - Validating LogIn Functionality
+2023-05-28 13:56:04,624 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 13:56:06,057 - log -INFO - Validating LogIn Functionality
+2023-05-28 13:56:06,072 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 13:56:07,434 - log -INFO - Validating LogIn Functionality
+2023-05-28 13:56:07,441 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 13:56:09,001 - log -INFO - Validating LogIn Functionality
+2023-05-28 13:56:09,008 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 13:56:11,414 - log -INFO - Validating LogIn Functionality
+2023-05-28 13:56:11,420 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 13:56:11,428 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 13:56:11,527 - log -INFO - The Actual Text Of The OrangeHRM Application Home Page Admin is:- Admin
+2023-05-28 13:56:11,533 - log -INFO - The Expected Text Of The OrangeHRM Application Home Page Admin is:- Admin
+2023-05-28 13:56:11,542 - log -INFO - The Text Of The OrangeHRMApplication Home Page Admin is Matched:-PASS
+2023-05-28 13:56:11,550 - log -INFO -  Validating Home Page Admin Text Successfull - Naviagated to Home Page
+2023-05-28 13:56:11,761 - log -INFO - **** Chrome Browser Closed Successfully ****
+2023-05-28 13:56:13,552 - log -INFO - ****Chrome Browser Launched SuccessFully ****
+2023-05-28 13:56:14,971 - log -INFO - Validating LogIn Functionality
+2023-05-28 13:56:14,980 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 13:56:16,536 - log -INFO - Validating LogIn Functionality
+2023-05-28 13:56:16,541 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 13:56:18,201 - log -INFO - Validating LogIn Functionality
+2023-05-28 13:56:18,209 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 13:56:19,799 - log -INFO - Validating LogIn Functionality
+2023-05-28 13:56:19,806 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 13:56:22,434 - log -INFO - Validating LogIn Functionality
+2023-05-28 13:56:22,439 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 13:56:22,443 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 13:56:22,500 - log -INFO - The Actual Text Of The OrangeHRM Application Home Page PIM is:- PIM
+2023-05-28 13:56:22,505 - log -INFO - The Expected Text Of The OrangeHRM Application Home Page PIM is:- PIM
+2023-05-28 13:56:22,509 - log -INFO - The Text Of The PIM is OrangeHRMApplication Home Page Matched:-PASS
+2023-05-28 13:56:22,514 - log -INFO -  Validating Home Page PIM Text Successfull - Naviagated to Home Page
+2023-05-28 13:56:22,718 - log -INFO - **** Chrome Browser Closed Successfully ****
+2023-05-28 13:56:24,508 - log -INFO - ****Chrome Browser Launched SuccessFully ****
+2023-05-28 13:56:25,784 - log -INFO - Validating LogIn Functionality
+2023-05-28 13:56:25,791 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 13:56:27,285 - log -INFO - Validating LogIn Functionality
+2023-05-28 13:56:27,290 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 13:56:28,861 - log -INFO - Validating LogIn Functionality
+2023-05-28 13:56:28,868 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 13:56:30,493 - log -INFO - Validating LogIn Functionality
+2023-05-28 13:56:30,499 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 13:56:33,178 - log -INFO - Validating LogIn Functionality
+2023-05-28 13:56:33,182 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 13:56:33,186 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 13:56:33,239 - log -INFO - The Actual Text Of The OrangeHRM Application Home Page Leave is:- Leave
+2023-05-28 13:56:33,243 - log -INFO - The Expected Text Of The OrangeHRM Application Home Page Leave is:- Leave
+2023-05-28 13:56:33,245 - log -INFO - The Text Of The Leave is OrangeHRMApplication Home Page Matched:-PASS
+2023-05-28 13:56:33,249 - log -INFO -  Validating Home Page Leave Text Successfull - Naviagated to Home Page
+2023-05-28 13:56:33,409 - log -INFO - **** Chrome Browser Closed Successfully ****
+2023-05-28 14:07:27,274 - log -INFO - ****Chrome Browser Launched SuccessFully ****
+2023-05-28 14:07:30,045 - log -INFO - Validating LogIn Functionality
+2023-05-28 14:07:30,056 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 14:07:31,515 - log -INFO - Validating LogIn Functionality
+2023-05-28 14:07:31,531 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 14:07:32,901 - log -INFO - Validating LogIn Functionality
+2023-05-28 14:07:32,911 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 14:07:34,142 - log -INFO - Validating LogIn Functionality
+2023-05-28 14:07:34,157 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 14:07:36,383 - log -INFO - Validating LogIn Functionality
+2023-05-28 14:07:36,389 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 14:07:36,396 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 14:07:36,477 - log -INFO - The Actual Text Of The OrangeHRM Application Home Page Admin is:- Admin
+2023-05-28 14:07:36,481 - log -INFO - The Expected Text Of The OrangeHRM Application Home Page Admin is:- Admin
+2023-05-28 14:07:36,491 - log -INFO - The Text Of The OrangeHRMApplication Home Page Admin is Matched:-PASS
+2023-05-28 14:07:36,501 - log -INFO -  Validating Home Page Admin Text Successfull - Naviagated to Home Page
+2023-05-28 14:07:36,722 - log -INFO - **** Chrome Browser Closed Successfully ****
+2023-05-28 14:07:38,552 - log -INFO - ****Chrome Browser Launched SuccessFully ****
+2023-05-28 14:07:39,995 - log -INFO - Validating LogIn Functionality
+2023-05-28 14:07:40,001 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 14:07:41,474 - log -INFO - Validating LogIn Functionality
+2023-05-28 14:07:41,479 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 14:07:43,097 - log -INFO - Validating LogIn Functionality
+2023-05-28 14:07:43,109 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 14:07:44,707 - log -INFO - Validating LogIn Functionality
+2023-05-28 14:07:44,714 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 14:07:47,270 - log -INFO - Validating LogIn Functionality
+2023-05-28 14:07:47,273 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 14:07:47,277 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 14:07:47,334 - log -INFO - The Actual Text Of The OrangeHRM Application Home Page PIM is:- PIM
+2023-05-28 14:07:47,338 - log -INFO - The Expected Text Of The OrangeHRM Application Home Page PIM is:- PIM
+2023-05-28 14:07:47,343 - log -INFO - The Text Of The OrangeHRMApplication Home Page PIM is  Matched:-PASS
+2023-05-28 14:07:47,347 - log -INFO -  Validating Home Page PIM Text Successfull - Naviagated to Home Page
+2023-05-28 14:07:47,537 - log -INFO - **** Chrome Browser Closed Successfully ****
+2023-05-28 14:07:49,337 - log -INFO - ****Chrome Browser Launched SuccessFully ****
+2023-05-28 14:07:50,672 - log -INFO - Validating LogIn Functionality
+2023-05-28 14:07:50,681 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 14:07:52,254 - log -INFO - Validating LogIn Functionality
+2023-05-28 14:07:52,258 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 14:07:53,961 - log -INFO - Validating LogIn Functionality
+2023-05-28 14:07:53,969 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 14:07:55,684 - log -INFO - Validating LogIn Functionality
+2023-05-28 14:07:55,691 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 14:07:58,384 - log -INFO - Validating LogIn Functionality
+2023-05-28 14:07:58,387 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 14:07:58,390 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 14:07:58,455 - log -INFO - The Actual Text Of The OrangeHRM Application Home Page Leave is:- Leave
+2023-05-28 14:07:58,460 - log -INFO - The Expected Text Of The OrangeHRM Application Home Page Leave is:- Leave
+2023-05-28 14:07:58,463 - log -INFO - The Text Of The OrangeHRMApplication Home Page Leave is  Matched:-PASS
+2023-05-28 14:07:58,467 - log -INFO -  Validating Home Page Leave Text Successfull - Naviagated to Home Page
+2023-05-28 14:07:58,643 - log -INFO - **** Chrome Browser Closed Successfully ****
+2023-05-28 14:08:00,426 - log -INFO - ****Chrome Browser Launched SuccessFully ****
+2023-05-28 14:08:01,680 - log -INFO - Validating LogIn Functionality
+2023-05-28 14:08:01,685 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 14:08:03,214 - log -INFO - Validating LogIn Functionality
+2023-05-28 14:08:03,218 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 14:08:04,897 - log -INFO - Validating LogIn Functionality
+2023-05-28 14:08:04,909 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 14:08:06,580 - log -INFO - Validating LogIn Functionality
+2023-05-28 14:08:06,590 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 14:08:09,263 - log -INFO - Validating LogIn Functionality
+2023-05-28 14:08:09,270 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 14:08:09,274 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 14:08:09,328 - log -INFO - The Actual Text Of The OrangeHRM Application Home Page Time is:- Time
+2023-05-28 14:08:09,332 - log -INFO - The Expected Text Of The OrangeHRM Application Home Page time is:- Leave
+2023-05-28 14:08:09,492 - log -INFO - **** Chrome Browser Closed Successfully ****
+2023-05-28 14:09:02,828 - log -INFO - ****Chrome Browser Launched SuccessFully ****
+2023-05-28 14:09:05,413 - log -INFO - Validating LogIn Functionality
+2023-05-28 14:09:05,428 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 14:09:06,791 - log -INFO - Validating LogIn Functionality
+2023-05-28 14:09:06,798 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 14:09:08,155 - log -INFO - Validating LogIn Functionality
+2023-05-28 14:09:08,169 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 14:09:09,523 - log -INFO - Validating LogIn Functionality
+2023-05-28 14:09:09,537 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 14:09:11,618 - log -INFO - Validating LogIn Functionality
+2023-05-28 14:09:11,624 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 14:09:11,629 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 14:09:11,707 - log -INFO - The Actual Text Of The OrangeHRM Application Home Page Admin is:- Admin
+2023-05-28 14:09:11,711 - log -INFO - The Expected Text Of The OrangeHRM Application Home Page Admin is:- Admin
+2023-05-28 14:09:11,721 - log -INFO - The Text Of The OrangeHRMApplication Home Page Admin is Matched:-PASS
+2023-05-28 14:09:11,728 - log -INFO -  Validating Home Page Admin Text Successfull - Naviagated to Home Page
+2023-05-28 14:09:11,970 - log -INFO - **** Chrome Browser Closed Successfully ****
+2023-05-28 14:09:13,630 - log -INFO - ****Chrome Browser Launched SuccessFully ****
+2023-05-28 14:09:14,912 - log -INFO - Validating LogIn Functionality
+2023-05-28 14:09:14,922 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 14:09:16,445 - log -INFO - Validating LogIn Functionality
+2023-05-28 14:09:16,452 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 14:09:18,048 - log -INFO - Validating LogIn Functionality
+2023-05-28 14:09:18,052 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 14:09:19,661 - log -INFO - Validating LogIn Functionality
+2023-05-28 14:09:19,666 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 14:09:22,196 - log -INFO - Validating LogIn Functionality
+2023-05-28 14:09:22,200 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 14:09:22,203 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 14:09:22,275 - log -INFO - The Actual Text Of The OrangeHRM Application Home Page PIM is:- PIM
+2023-05-28 14:09:22,280 - log -INFO - The Expected Text Of The OrangeHRM Application Home Page PIM is:- PIM
+2023-05-28 14:09:22,285 - log -INFO - The Text Of The OrangeHRMApplication Home Page PIM is  Matched:-PASS
+2023-05-28 14:09:22,291 - log -INFO -  Validating Home Page PIM Text Successfull - Naviagated to Home Page
+2023-05-28 14:09:22,447 - log -INFO - **** Chrome Browser Closed Successfully ****
+2023-05-28 14:09:24,404 - log -INFO - ****Chrome Browser Launched SuccessFully ****
+2023-05-28 14:09:25,673 - log -INFO - Validating LogIn Functionality
+2023-05-28 14:09:25,682 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 14:09:27,190 - log -INFO - Validating LogIn Functionality
+2023-05-28 14:09:27,198 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 14:09:28,795 - log -INFO - Validating LogIn Functionality
+2023-05-28 14:09:28,805 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 14:09:30,436 - log -INFO - Validating LogIn Functionality
+2023-05-28 14:09:30,441 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 14:09:32,978 - log -INFO - Validating LogIn Functionality
+2023-05-28 14:09:32,982 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 14:09:32,986 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 14:09:33,049 - log -INFO - The Actual Text Of The OrangeHRM Application Home Page Leave is:- Leave
+2023-05-28 14:09:33,054 - log -INFO - The Expected Text Of The OrangeHRM Application Home Page Leave is:- Leave
+2023-05-28 14:09:33,058 - log -INFO - The Text Of The OrangeHRMApplication Home Page Leave is  Matched:-PASS
+2023-05-28 14:09:33,061 - log -INFO -  Validating Home Page Leave Text Successfull - Naviagated to Home Page
+2023-05-28 14:09:33,236 - log -INFO - **** Chrome Browser Closed Successfully ****
+2023-05-28 14:09:34,955 - log -INFO - ****Chrome Browser Launched SuccessFully ****
+2023-05-28 14:09:36,343 - log -INFO - Validating LogIn Functionality
+2023-05-28 14:09:36,352 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 14:09:37,891 - log -INFO - Validating LogIn Functionality
+2023-05-28 14:09:37,896 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 14:09:39,544 - log -INFO - Validating LogIn Functionality
+2023-05-28 14:09:39,551 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 14:09:41,146 - log -INFO - Validating LogIn Functionality
+2023-05-28 14:09:41,153 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 14:09:43,676 - log -INFO - Validating LogIn Functionality
+2023-05-28 14:09:43,680 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 14:09:43,683 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 14:09:43,756 - log -INFO - The Actual Text Of The OrangeHRM Application Home Page Time is:- Time
+2023-05-28 14:09:43,759 - log -INFO - The Expected Text Of The OrangeHRM Application Home Page time is:- Time
+2023-05-28 14:09:43,763 - log -INFO - The Text Of The OrangeHRMApplication Home Page Time is  Matched:-PASS
+2023-05-28 14:09:43,767 - log -INFO -  Validating Home Page Time Text Successfull - Naviagated to Home Page
+2023-05-28 14:09:43,916 - log -INFO - **** Chrome Browser Closed Successfully ****
+2023-05-28 20:36:57,617 - log -INFO - ****Chrome Browser Launched SuccessFully ****
+2023-05-28 20:37:00,419 - log -INFO - Validating LogIn Functionality
+2023-05-28 20:37:00,433 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 20:37:02,092 - log -INFO - Validating LogIn Functionality
+2023-05-28 20:37:02,102 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 20:37:03,637 - log -INFO - Validating LogIn Functionality
+2023-05-28 20:37:03,643 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 20:37:05,244 - log -INFO - Validating LogIn Functionality
+2023-05-28 20:37:05,261 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 20:37:07,598 - log -INFO - Validating LogIn Functionality
+2023-05-28 20:37:07,603 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 20:37:07,608 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 20:37:07,685 - log -INFO - The Actual Text Of The OrangeHRM Application Home Page Admin is:- Admin
+2023-05-28 20:37:07,689 - log -INFO - The Expected Text Of The OrangeHRM Application Home Page Admin is:- Admin
+2023-05-28 20:37:07,699 - log -INFO - The Text Of The OrangeHRMApplication Home Page Admin is Matched:-PASS
+2023-05-28 20:37:07,999 - log -INFO -  Validating Home Page Admin Text Successfull - Naviagated to Home Page
+2023-05-28 20:37:08,206 - log -INFO - **** Chrome Browser Closed Successfully ****
+2023-05-28 20:37:10,272 - log -INFO - ****Chrome Browser Launched SuccessFully ****
+2023-05-28 20:37:11,551 - log -INFO - Validating LogIn Functionality
+2023-05-28 20:37:11,561 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 20:37:13,186 - log -INFO - Validating LogIn Functionality
+2023-05-28 20:37:13,195 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 20:37:14,882 - log -INFO - Validating LogIn Functionality
+2023-05-28 20:37:14,889 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 20:37:16,495 - log -INFO - Validating LogIn Functionality
+2023-05-28 20:37:16,501 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 20:37:19,170 - log -INFO - Validating LogIn Functionality
+2023-05-28 20:37:19,174 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 20:37:19,177 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 20:37:19,243 - log -INFO - The Actual Text Of The OrangeHRM Application Home Page PIM is:- PIM
+2023-05-28 20:37:19,247 - log -INFO - The Expected Text Of The OrangeHRM Application Home Page PIM is:- PIM
+2023-05-28 20:37:19,251 - log -INFO - The Text Of The OrangeHRMApplication Home Page PIM is  Matched:-PASS
+2023-05-28 20:37:19,393 - log -INFO - **** Chrome Browser Closed Successfully ****
+2023-05-28 20:37:21,229 - log -INFO - ****Chrome Browser Launched SuccessFully ****
+2023-05-28 20:37:22,504 - log -INFO - Validating LogIn Functionality
+2023-05-28 20:37:22,514 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 20:37:24,024 - log -INFO - Validating LogIn Functionality
+2023-05-28 20:37:24,028 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 20:37:25,809 - log -INFO - Validating LogIn Functionality
+2023-05-28 20:37:25,819 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 20:37:27,452 - log -INFO - Validating LogIn Functionality
+2023-05-28 20:37:27,458 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 20:37:30,034 - log -INFO - Validating LogIn Functionality
+2023-05-28 20:37:30,040 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 20:37:30,046 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 20:37:30,101 - log -INFO - The Actual Text Of The OrangeHRM Application Home Page Leave is:- Leave
+2023-05-28 20:37:30,105 - log -INFO - The Expected Text Of The OrangeHRM Application Home Page Leave is:- Leave
+2023-05-28 20:37:30,108 - log -INFO - The Text Of The OrangeHRMApplication Home Page Leave is  Matched:-PASS
+2023-05-28 20:37:30,291 - log -INFO - **** Chrome Browser Closed Successfully ****
+2023-05-28 20:37:32,003 - log -INFO - ****Chrome Browser Launched SuccessFully ****
+2023-05-28 20:37:33,235 - log -INFO - Validating LogIn Functionality
+2023-05-28 20:37:33,242 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 20:37:34,671 - log -INFO - Validating LogIn Functionality
+2023-05-28 20:37:34,682 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 20:37:36,384 - log -INFO - Validating LogIn Functionality
+2023-05-28 20:37:36,396 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 20:37:37,990 - log -INFO - Validating LogIn Functionality
+2023-05-28 20:37:37,994 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 20:37:40,666 - log -INFO - Validating LogIn Functionality
+2023-05-28 20:37:40,673 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 20:37:40,679 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 20:37:40,732 - log -INFO - The Actual Text Of The OrangeHRM Application Home Page Time is:- Time
+2023-05-28 20:37:40,736 - log -INFO - The Expected Text Of The OrangeHRM Application Home Page time is:- Time
+2023-05-28 20:37:40,740 - log -INFO - The Text Of The OrangeHRMApplication Home Page Time is  Matched:-PASS
+2023-05-28 20:37:40,911 - log -INFO - **** Chrome Browser Closed Successfully ****
+2023-05-28 20:48:25,262 - log -INFO - ****Chrome Browser Launched SuccessFully ****
+2023-05-28 20:48:27,848 - log -INFO - Validating LogIn Functionality
+2023-05-28 20:48:27,863 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 20:48:29,345 - log -INFO - Validating LogIn Functionality
+2023-05-28 20:48:29,359 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 20:48:30,807 - log -INFO - Validating LogIn Functionality
+2023-05-28 20:48:30,822 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 20:48:32,318 - log -INFO - Validating LogIn Functionality
+2023-05-28 20:48:32,330 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 20:48:34,688 - log -INFO - Validating LogIn Functionality
+2023-05-28 20:48:34,693 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 20:48:34,701 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 20:48:34,804 - log -INFO - The Actual Text Of The OrangeHRM Application Home Page Admin is:- Admin
+2023-05-28 20:48:34,810 - log -INFO - The Expected Text Of The OrangeHRM Application Home Page Admin is:- Admin
+2023-05-28 20:48:34,820 - log -INFO - The Text Of The OrangeHRMApplication Home Page Admin is Matched:-PASS
+2023-05-28 20:48:40,165 - log -INFO -  Validating Home Page Admin Text Successfull - Naviagated to Home Page
+2023-05-28 20:48:40,349 - log -INFO - **** Chrome Browser Closed Successfully ****
+2023-05-28 20:48:42,133 - log -INFO - ****Chrome Browser Launched SuccessFully ****
+2023-05-28 20:48:43,393 - log -INFO - Validating LogIn Functionality
+2023-05-28 20:48:43,401 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 20:48:44,849 - log -INFO - Validating LogIn Functionality
+2023-05-28 20:48:44,860 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 20:48:46,465 - log -INFO - Validating LogIn Functionality
+2023-05-28 20:48:46,476 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 20:48:48,103 - log -INFO - Validating LogIn Functionality
+2023-05-28 20:48:48,112 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 20:48:50,657 - log -INFO - Validating LogIn Functionality
+2023-05-28 20:48:50,662 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 20:48:50,667 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 20:48:50,722 - log -INFO - The Actual Text Of The OrangeHRM Application Home Page PIM is:- PIM
+2023-05-28 20:48:50,727 - log -INFO - The Expected Text Of The OrangeHRM Application Home Page PIM is:- PIM
+2023-05-28 20:48:50,731 - log -INFO - The Text Of The OrangeHRMApplication Home Page PIM is  Matched:-PASS
+2023-05-28 20:48:51,045 - log -INFO -  Validating Home Page PIM Text Successfull - Naviagated to Home Page
+2023-05-28 20:48:51,211 - log -INFO - **** Chrome Browser Closed Successfully ****
+2023-05-28 20:48:53,142 - log -INFO - ****Chrome Browser Launched SuccessFully ****
+2023-05-28 20:48:54,375 - log -INFO - Validating LogIn Functionality
+2023-05-28 20:48:54,385 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 20:48:55,902 - log -INFO - Validating LogIn Functionality
+2023-05-28 20:48:55,908 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 20:48:57,473 - log -INFO - Validating LogIn Functionality
+2023-05-28 20:48:57,482 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 20:48:59,021 - log -INFO - Validating LogIn Functionality
+2023-05-28 20:48:59,034 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 20:49:01,560 - log -INFO - Validating LogIn Functionality
+2023-05-28 20:49:01,565 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 20:49:01,570 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 20:49:01,640 - log -INFO - The Actual Text Of The OrangeHRM Application Home Page Leave is:- Leave
+2023-05-28 20:49:01,644 - log -INFO - The Expected Text Of The OrangeHRM Application Home Page Leave is:- Leave
+2023-05-28 20:49:01,647 - log -INFO - The Text Of The OrangeHRMApplication Home Page Leave is  Matched:-PASS
+2023-05-28 20:49:01,937 - log -INFO -  Validating Home Page Leave Text Successfull - Naviagated to Home Page
+2023-05-28 20:49:02,184 - log -INFO - **** Chrome Browser Closed Successfully ****
+2023-05-28 20:49:03,965 - log -INFO - ****Chrome Browser Launched SuccessFully ****
+2023-05-28 20:49:05,341 - log -INFO - Validating LogIn Functionality
+2023-05-28 20:49:05,349 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 20:49:06,811 - log -INFO - Validating LogIn Functionality
+2023-05-28 20:49:06,816 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 20:49:08,426 - log -INFO - Validating LogIn Functionality
+2023-05-28 20:49:08,430 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 20:49:10,048 - log -INFO - Validating LogIn Functionality
+2023-05-28 20:49:10,056 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 20:49:12,640 - log -INFO - Validating LogIn Functionality
+2023-05-28 20:49:12,645 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 20:49:12,650 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 20:49:12,707 - log -INFO - The Actual Text Of The OrangeHRM Application Home Page Time is:- Time
+2023-05-28 20:49:12,711 - log -INFO - The Expected Text Of The OrangeHRM Application Home Page time is:- Time
+2023-05-28 20:49:12,717 - log -INFO - The Text Of The OrangeHRMApplication Home Page Time is  Matched:-PASS
+2023-05-28 20:49:13,010 - log -INFO -  Validating Home Page Time Text Successfull - Naviagated to Home Page
+2023-05-28 20:49:13,155 - log -INFO - **** Chrome Browser Closed Successfully ****
+2023-05-28 22:22:46,846 - log -INFO - ****Chrome Browser Launched SuccessFully ****
+2023-05-28 22:22:49,390 - log -INFO - Validating LogIn Functionality
+2023-05-28 22:22:49,403 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 22:22:51,198 - log -INFO - Validating LogIn Functionality
+2023-05-28 22:22:51,208 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 22:22:52,559 - log -INFO - Validating LogIn Functionality
+2023-05-28 22:22:52,568 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 22:22:54,064 - log -INFO - Validating LogIn Functionality
+2023-05-28 22:22:54,070 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 22:22:56,180 - log -INFO - Validating LogIn Functionality
+2023-05-28 22:22:56,185 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 22:22:56,192 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 22:22:56,275 - log -INFO - The Actual Text Of The OrangeHRM Application Home Page Admin is:- Admin
+2023-05-28 22:22:56,279 - log -INFO - The Expected Text Of The OrangeHRM Application Home Page Admin is:- Admin
+2023-05-28 22:22:56,288 - log -INFO - The Text Of The OrangeHRMApplication Home Page Admin is Matched:-PASS
+2023-05-28 22:22:56,588 - log -INFO -  Validating Home Page Admin Text Successfull - Naviagated to Home Page
+2023-05-28 22:22:56,794 - log -INFO - **** Chrome Browser Closed Successfully ****
+2023-05-28 22:22:58,517 - log -INFO - ****Chrome Browser Launched SuccessFully ****
+2023-05-28 22:22:59,810 - log -INFO - Validating LogIn Functionality
+2023-05-28 22:22:59,822 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 22:23:01,476 - log -INFO - Validating LogIn Functionality
+2023-05-28 22:23:01,480 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 22:23:03,083 - log -INFO - Validating LogIn Functionality
+2023-05-28 22:23:03,092 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 22:23:04,770 - log -INFO - Validating LogIn Functionality
+2023-05-28 22:23:04,775 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 22:23:07,600 - log -INFO - Validating LogIn Functionality
+2023-05-28 22:23:07,604 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 22:23:07,608 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 22:23:07,680 - log -INFO - The Actual Text Of The OrangeHRM Application Home Page PIM is:- PIM
+2023-05-28 22:23:07,684 - log -INFO - The Expected Text Of The OrangeHRM Application Home Page PIM is:- PIM
+2023-05-28 22:23:07,689 - log -INFO - The Text Of The OrangeHRMApplication Home Page PIM is  Matched:-PASS
+2023-05-28 22:23:07,998 - log -INFO -  Validating Home Page PIM Text Successfull - Naviagated to Home Page
+2023-05-28 22:23:08,124 - log -INFO - **** Chrome Browser Closed Successfully ****
+2023-05-28 22:23:09,830 - log -INFO - ****Chrome Browser Launched SuccessFully ****
+2023-05-28 22:23:11,115 - log -INFO - Validating LogIn Functionality
+2023-05-28 22:23:11,123 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 22:23:12,583 - log -INFO - Validating LogIn Functionality
+2023-05-28 22:23:12,589 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 22:23:14,221 - log -INFO - Validating LogIn Functionality
+2023-05-28 22:23:14,229 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 22:23:15,880 - log -INFO - Validating LogIn Functionality
+2023-05-28 22:23:15,887 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 22:23:18,665 - log -INFO - Validating LogIn Functionality
+2023-05-28 22:23:18,670 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 22:23:18,675 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 22:23:18,730 - log -INFO - The Actual Text Of The OrangeHRM Application Home Page Leave is:- Leave
+2023-05-28 22:23:18,733 - log -INFO - The Expected Text Of The OrangeHRM Application Home Page Leave is:- Leave
+2023-05-28 22:23:18,738 - log -INFO - The Text Of The OrangeHRMApplication Home Page Leave is  Matched:-PASS
+2023-05-28 22:23:19,048 - log -INFO -  Validating Home Page Leave Text Successfull - Naviagated to Home Page
+2023-05-28 22:23:19,186 - log -INFO - **** Chrome Browser Closed Successfully ****
+2023-05-28 22:23:21,133 - log -INFO - ****Chrome Browser Launched SuccessFully ****
+2023-05-28 22:23:22,438 - log -INFO - Validating LogIn Functionality
+2023-05-28 22:23:22,447 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 22:23:23,991 - log -INFO - Validating LogIn Functionality
+2023-05-28 22:23:23,997 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 22:23:25,589 - log -INFO - Validating LogIn Functionality
+2023-05-28 22:23:25,602 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 22:23:27,225 - log -INFO - Validating LogIn Functionality
+2023-05-28 22:23:27,232 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 22:23:29,863 - log -INFO - Validating LogIn Functionality
+2023-05-28 22:23:29,866 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 22:23:29,869 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 22:23:29,937 - log -INFO - The Actual Text Of The OrangeHRM Application Home Page Time is:- Time
+2023-05-28 22:23:29,940 - log -INFO - The Expected Text Of The OrangeHRM Application Home Page time is:- Time
+2023-05-28 22:23:29,943 - log -INFO - The Text Of The OrangeHRMApplication Home Page Time is  Matched:-PASS
+2023-05-28 22:23:30,252 - log -INFO -  Validating Home Page Time Text Successfull - Naviagated to Home Page
+2023-05-28 22:23:30,413 - log -INFO - **** Chrome Browser Closed Successfully ****
+2023-05-28 22:51:19,964 - log -INFO - ****Chrome Browser Launched SuccessFully ****
+2023-05-28 22:51:20,429 - log -INFO - **** Chrome Browser Closed Successfully ****
+2023-05-28 22:52:49,583 - log -INFO - ****Chrome Browser Launched SuccessFully ****
+2023-05-28 22:52:50,006 - log -INFO - **** Chrome Browser Closed Successfully ****
+2023-05-28 22:56:36,701 - log -INFO - ****Chrome Browser Launched SuccessFully ****
+2023-05-28 22:56:37,172 - log -INFO - **** Chrome Browser Closed Successfully ****
+2023-05-28 22:57:37,128 - log -INFO - ****Chrome Browser Launched SuccessFully ****
+2023-05-28 22:57:37,559 - log -INFO - **** Chrome Browser Closed Successfully ****
+2023-05-28 22:57:39,425 - log -INFO - ****Chrome Browser Launched SuccessFully ****
+2023-05-28 22:57:41,745 - log -INFO - Validating LogIn Functionality
+2023-05-28 22:57:41,751 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 22:57:43,222 - log -INFO - Validating LogIn Functionality
+2023-05-28 22:57:43,234 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 22:57:44,648 - log -INFO - Validating LogIn Functionality
+2023-05-28 22:57:44,661 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 22:57:46,014 - log -INFO - Validating LogIn Functionality
+2023-05-28 22:57:46,020 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 22:57:48,183 - log -INFO - Validating LogIn Functionality
+2023-05-28 22:57:48,189 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 22:57:48,194 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 22:57:48,283 - log -INFO - The Actual Text Of The OrangeHRM Application Home Page Admin is:- Admin
+2023-05-28 22:57:48,293 - log -INFO - The Expected Text Of The OrangeHRM Application Home Page Admin is:- Admin
+2023-05-28 22:57:48,307 - log -INFO - The Text Of The OrangeHRMApplication Home Page Admin is Matched:-PASS
+2023-05-28 22:57:48,630 - log -INFO -  Validating Home Page Admin Text Successfull - Naviagated to Home Page
+2023-05-28 22:57:48,839 - log -INFO - **** Chrome Browser Closed Successfully ****
+2023-05-28 22:57:51,427 - log -INFO - ****Chrome Browser Launched SuccessFully ****
+2023-05-28 22:57:53,770 - log -INFO - Validating LogIn Functionality
+2023-05-28 22:57:53,780 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 22:57:55,059 - log -INFO - Validating LogIn Functionality
+2023-05-28 22:57:55,070 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 22:57:56,690 - log -INFO - Validating LogIn Functionality
+2023-05-28 22:57:56,699 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 22:57:58,282 - log -INFO - Validating LogIn Functionality
+2023-05-28 22:57:58,288 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 22:58:00,884 - log -INFO - Validating LogIn Functionality
+2023-05-28 22:58:00,890 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 22:58:00,897 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 22:58:00,955 - log -INFO - The Actual Text Of The OrangeHRM Application Home Page PIM is:- PIM
+2023-05-28 22:58:00,960 - log -INFO - The Expected Text Of The OrangeHRM Application Home Page PIM is:- PIM
+2023-05-28 22:58:00,964 - log -INFO - The Text Of The OrangeHRMApplication Home Page PIM is  Matched:-PASS
+2023-05-28 22:58:01,222 - log -INFO -  Validating Home Page PIM Text Successfull - Naviagated to Home Page
+2023-05-28 22:58:01,406 - log -INFO - **** Chrome Browser Closed Successfully ****
+2023-05-28 22:58:03,207 - log -INFO - ****Chrome Browser Launched SuccessFully ****
+2023-05-28 22:58:04,466 - log -INFO - Validating LogIn Functionality
+2023-05-28 22:58:04,476 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 22:58:06,038 - log -INFO - Validating LogIn Functionality
+2023-05-28 22:58:06,046 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 22:58:07,658 - log -INFO - Validating LogIn Functionality
+2023-05-28 22:58:07,664 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 22:58:09,322 - log -INFO - Validating LogIn Functionality
+2023-05-28 22:58:09,327 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 22:58:11,945 - log -INFO - Validating LogIn Functionality
+2023-05-28 22:58:11,955 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 22:58:11,958 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 22:58:12,017 - log -INFO - The Actual Text Of The OrangeHRM Application Home Page Leave is:- Leave
+2023-05-28 22:58:12,021 - log -INFO - The Expected Text Of The OrangeHRM Application Home Page Leave is:- Leave
+2023-05-28 22:58:12,024 - log -INFO - The Text Of The OrangeHRMApplication Home Page Leave is  Matched:-PASS
+2023-05-28 22:58:12,329 - log -INFO -  Validating Home Page Leave Text Successfull - Naviagated to Home Page
+2023-05-28 22:58:12,514 - log -INFO - **** Chrome Browser Closed Successfully ****
+2023-05-28 22:58:14,311 - log -INFO - ****Chrome Browser Launched SuccessFully ****
+2023-05-28 22:58:15,600 - log -INFO - Validating LogIn Functionality
+2023-05-28 22:58:15,608 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 22:58:17,070 - log -INFO - Validating LogIn Functionality
+2023-05-28 22:58:17,075 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 22:58:18,703 - log -INFO - Validating LogIn Functionality
+2023-05-28 22:58:18,708 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 22:58:20,316 - log -INFO - Validating LogIn Functionality
+2023-05-28 22:58:20,323 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 22:58:22,932 - log -INFO - Validating LogIn Functionality
+2023-05-28 22:58:22,937 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 22:58:22,941 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 22:58:23,010 - log -INFO - The Actual Text Of The OrangeHRM Application Home Page Time is:- Time
+2023-05-28 22:58:23,015 - log -INFO - The Expected Text Of The OrangeHRM Application Home Page time is:- Time
+2023-05-28 22:58:23,018 - log -INFO - The Text Of The OrangeHRMApplication Home Page Time is  Matched:-PASS
+2023-05-28 22:58:23,361 - log -INFO -  Validating Home Page Time Text Successfull - Naviagated to Home Page
+2023-05-28 22:58:23,552 - log -INFO - **** Chrome Browser Closed Successfully ****
+2023-05-28 23:01:12,521 - log -INFO - ****Chrome Browser Launched SuccessFully ****
+2023-05-28 23:01:15,196 - log -INFO - Validating LogIn Functionality
+2023-05-28 23:01:15,209 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 23:01:16,610 - log -INFO - Validating LogIn Functionality
+2023-05-28 23:01:16,625 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 23:01:17,868 - log -INFO - Validating LogIn Functionality
+2023-05-28 23:01:17,876 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 23:01:19,308 - log -INFO - Validating LogIn Functionality
+2023-05-28 23:01:19,326 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 23:01:21,671 - log -INFO - Validating LogIn Functionality
+2023-05-28 23:01:21,679 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-28 23:01:21,885 - log -INFO - **** Chrome Browser Closed Successfully ****
+2023-05-29 10:29:15,217 - log -INFO - ****Chrome Browser Launched SuccessFully ****
+2023-05-29 10:29:18,227 - log -INFO - Validating LogIn Functionality
+2023-05-29 10:29:18,241 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-29 10:29:20,187 - log -INFO - Validating LogIn Functionality
+2023-05-29 10:29:20,203 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-29 10:29:22,041 - log -INFO - Validating LogIn Functionality
+2023-05-29 10:29:22,054 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-29 10:29:23,819 - log -INFO - Validating LogIn Functionality
+2023-05-29 10:29:23,826 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-29 10:29:26,824 - log -INFO - Validating LogIn Functionality
+2023-05-29 10:29:26,830 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-29 10:29:26,835 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-29 10:29:26,902 - log -INFO - The Actual Text Of The OrangeHRM Application Home Page Admin is:- Admin
+2023-05-29 10:29:26,906 - log -INFO - The Expected Text Of The OrangeHRM Application Home Page Admin is:- Admin
+2023-05-29 10:29:26,915 - log -INFO - The Text Of The OrangeHRMApplication Home Page Admin is Matched:-PASS
+2023-05-29 10:29:27,212 - log -INFO -  Validating Home Page Admin Text Successfull - Naviagated to Home Page
+2023-05-29 10:29:27,441 - log -INFO - **** Chrome Browser Closed Successfully ****
+2023-05-29 10:29:29,241 - log -INFO - ****Chrome Browser Launched SuccessFully ****
+2023-05-29 10:29:32,189 - log -INFO - Validating LogIn Functionality
+2023-05-29 10:29:32,201 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-29 10:29:33,694 - log -INFO - Validating LogIn Functionality
+2023-05-29 10:29:33,699 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-29 10:29:35,367 - log -INFO - Validating LogIn Functionality
+2023-05-29 10:29:35,373 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-29 10:29:36,932 - log -INFO - Validating LogIn Functionality
+2023-05-29 10:29:36,943 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-29 10:29:41,198 - log -INFO - Validating LogIn Functionality
+2023-05-29 10:29:41,201 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-29 10:29:41,205 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-29 10:29:41,274 - log -INFO - The Actual Text Of The OrangeHRM Application Home Page PIM is:- PIM
+2023-05-29 10:29:41,280 - log -INFO - The Expected Text Of The OrangeHRM Application Home Page PIM is:- PIM
+2023-05-29 10:29:41,284 - log -INFO - The Text Of The OrangeHRMApplication Home Page PIM is  Matched:-PASS
+2023-05-29 10:29:41,583 - log -INFO -  Validating Home Page PIM Text Successfull - Naviagated to Home Page
+2023-05-29 10:29:41,738 - log -INFO - **** Chrome Browser Closed Successfully ****
+2023-05-29 10:29:43,565 - log -INFO - ****Chrome Browser Launched SuccessFully ****
+2023-05-29 10:29:44,826 - log -INFO - Validating LogIn Functionality
+2023-05-29 10:29:44,836 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-29 10:29:46,436 - log -INFO - Validating LogIn Functionality
+2023-05-29 10:29:46,439 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-29 10:29:48,077 - log -INFO - Validating LogIn Functionality
+2023-05-29 10:29:48,084 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-29 10:29:49,673 - log -INFO - Validating LogIn Functionality
+2023-05-29 10:29:49,681 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-29 10:29:52,217 - log -INFO - Validating LogIn Functionality
+2023-05-29 10:29:52,223 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-29 10:29:52,231 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-29 10:29:52,284 - log -INFO - The Actual Text Of The OrangeHRM Application Home Page Leave is:- Leave
+2023-05-29 10:29:52,289 - log -INFO - The Expected Text Of The OrangeHRM Application Home Page Leave is:- Leave
+2023-05-29 10:29:52,292 - log -INFO - The Text Of The OrangeHRMApplication Home Page Leave is  Matched:-PASS
+2023-05-29 10:29:52,598 - log -INFO -  Validating Home Page Leave Text Successfull - Naviagated to Home Page
+2023-05-29 10:29:52,799 - log -INFO - **** Chrome Browser Closed Successfully ****
+2023-05-29 10:29:59,767 - log -INFO - ****Chrome Browser Launched SuccessFully ****
+2023-05-29 10:30:02,570 - log -INFO - Validating LogIn Functionality
+2023-05-29 10:30:02,574 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-29 10:30:04,116 - log -INFO - Validating LogIn Functionality
+2023-05-29 10:30:04,121 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-29 10:30:05,772 - log -INFO - Validating LogIn Functionality
+2023-05-29 10:30:05,780 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-29 10:30:07,430 - log -INFO - Validating LogIn Functionality
+2023-05-29 10:30:07,434 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-29 10:30:09,983 - log -INFO - Validating LogIn Functionality
+2023-05-29 10:30:09,988 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-29 10:30:09,993 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-29 10:30:10,045 - log -INFO - The Actual Text Of The OrangeHRM Application Home Page Time is:- Time
+2023-05-29 10:30:10,048 - log -INFO - The Expected Text Of The OrangeHRM Application Home Page time is:- Time
+2023-05-29 10:30:10,052 - log -INFO - The Text Of The OrangeHRMApplication Home Page Time is  Matched:-PASS
+2023-05-29 10:30:10,384 - log -INFO -  Validating Home Page Time Text Successfull - Naviagated to Home Page
+2023-05-29 10:30:10,549 - log -INFO - **** Chrome Browser Closed Successfully ****
+2023-05-29 10:30:54,842 - log -INFO - ****Chrome Browser Launched SuccessFully ****
+2023-05-29 10:30:57,424 - log -INFO - Validating LogIn Functionality
+2023-05-29 10:30:57,436 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-29 10:30:58,678 - log -INFO - Validating LogIn Functionality
+2023-05-29 10:30:58,692 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-29 10:31:00,314 - log -INFO - Validating LogIn Functionality
+2023-05-29 10:31:00,326 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-29 10:31:01,970 - log -INFO - Validating LogIn Functionality
+2023-05-29 10:31:01,978 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-29 10:31:04,595 - log -INFO - Validating LogIn Functionality
+2023-05-29 10:31:04,601 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-29 10:31:04,791 - log -INFO - **** Chrome Browser Closed Successfully ****
+2023-05-29 10:35:25,384 - log -INFO - ****Chrome Browser Launched SuccessFully ****
+2023-05-29 10:35:27,884 - log -INFO - Validating LogIn Functionality
+2023-05-29 10:35:27,894 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-29 10:35:29,563 - log -INFO - Validating LogIn Functionality
+2023-05-29 10:35:29,576 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-29 10:35:31,182 - log -INFO - Validating LogIn Functionality
+2023-05-29 10:35:31,196 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-29 10:35:32,670 - log -INFO - Validating LogIn Functionality
+2023-05-29 10:35:32,681 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-29 10:35:35,102 - log -INFO - Validating LogIn Functionality
+2023-05-29 10:35:35,108 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-29 10:35:35,349 - log -INFO - **** Chrome Browser Closed Successfully ****
+2023-05-29 10:44:18,334 - log -INFO - ****Chrome Browser Launched SuccessFully ****
+2023-05-29 10:44:18,725 - log -INFO - **** Chrome Browser Closed Successfully ****
+2023-05-29 10:46:33,739 - log -INFO - ****Chrome Browser Launched SuccessFully ****
+2023-05-29 10:46:44,215 - log -INFO - **** Chrome Browser Closed Successfully ****
+2023-05-29 10:48:10,927 - log -INFO - ****Chrome Browser Launched SuccessFully ****
+2023-05-29 10:48:13,537 - log -INFO - Validating LogIn Functionality
+2023-05-29 10:48:13,551 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-29 10:48:14,952 - log -INFO - Validating LogIn Functionality
+2023-05-29 10:48:14,966 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-29 10:48:16,353 - log -INFO - Validating LogIn Functionality
+2023-05-29 10:48:16,361 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-29 10:48:17,658 - log -INFO - Validating LogIn Functionality
+2023-05-29 10:48:17,670 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-29 10:48:20,017 - log -INFO - Validating LogIn Functionality
+2023-05-29 10:48:20,022 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-29 10:48:20,104 - log -INFO - The Actual Text Of The OrangeHRM Application Home Page PIM is:- PIM
+2023-05-29 10:48:20,109 - log -INFO - The Expected Text Of The OrangeHRM Application Home Page PIM is:- PIM
+2023-05-29 10:48:20,118 - log -INFO - The Text Of The OrangeHRMApplication Home Page PIM is  Matched:-PASS
+2023-05-29 10:48:30,877 - log -INFO - **** Chrome Browser Closed Successfully ****
+2023-05-29 10:53:08,811 - log -INFO - ****Chrome Browser Launched SuccessFully ****
+2023-05-29 10:53:11,491 - log -INFO - Validating LogIn Functionality
+2023-05-29 10:53:11,513 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-29 10:53:12,831 - log -INFO - Validating LogIn Functionality
+2023-05-29 10:53:12,844 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-29 10:53:14,229 - log -INFO - Validating LogIn Functionality
+2023-05-29 10:53:14,241 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-29 10:53:15,566 - log -INFO - Validating LogIn Functionality
+2023-05-29 10:53:15,578 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-29 10:53:17,649 - log -INFO - Validating LogIn Functionality
+2023-05-29 10:53:17,654 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-29 10:53:17,722 - log -INFO - The Actual Text Of The OrangeHRM Application Home Page PIM is:- PIM
+2023-05-29 10:53:17,726 - log -INFO - The Expected Text Of The OrangeHRM Application Home Page PIM is:- PIM
+2023-05-29 10:53:17,735 - log -INFO - The Text Of The OrangeHRMApplication Home Page PIM is  Matched:-PASS
+2023-05-29 10:53:28,368 - log -INFO - **** Chrome Browser Closed Successfully ****
+2023-05-29 10:55:31,945 - log -INFO - ****Chrome Browser Launched SuccessFully ****
+2023-05-29 10:55:34,597 - log -INFO - Validating LogIn Functionality
+2023-05-29 10:55:34,609 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-29 10:55:36,434 - log -INFO - Validating LogIn Functionality
+2023-05-29 10:55:36,444 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-29 10:55:37,861 - log -INFO - Validating LogIn Functionality
+2023-05-29 10:55:37,873 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-29 10:55:39,279 - log -INFO - Validating LogIn Functionality
+2023-05-29 10:55:39,293 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-29 10:55:41,658 - log -INFO - Validating LogIn Functionality
+2023-05-29 10:55:41,665 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-29 10:55:41,755 - log -INFO - The Actual Text Of The OrangeHRM Application Home Page PIM is:- PIM
+2023-05-29 10:55:41,760 - log -INFO - The Expected Text Of The OrangeHRM Application Home Page PIM is:- PIM
+2023-05-29 10:55:41,768 - log -INFO - The Text Of The OrangeHRMApplication Home Page PIM is  Matched:-PASS
+2023-05-29 10:55:52,518 - log -INFO - **** Chrome Browser Closed Successfully ****
+2023-05-29 11:10:18,961 - log -INFO - ****Chrome Browser Launched SuccessFully ****
+2023-05-29 11:10:21,679 - log -INFO - Validating LogIn Functionality
+2023-05-29 11:10:21,688 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-29 11:10:23,140 - log -INFO - Validating LogIn Functionality
+2023-05-29 11:10:23,154 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-29 11:10:24,583 - log -INFO - Validating LogIn Functionality
+2023-05-29 11:10:24,598 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-29 11:10:25,985 - log -INFO - Validating LogIn Functionality
+2023-05-29 11:10:25,998 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-29 11:10:28,019 - log -INFO - Validating LogIn Functionality
+2023-05-29 11:10:28,024 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-29 11:10:28,090 - log -INFO - The Actual Text Of The OrangeHRM Application Home Page PIM is:- PIM
+2023-05-29 11:10:28,095 - log -INFO - The Expected Text Of The OrangeHRM Application Home Page PIM is:- PIM
+2023-05-29 11:10:28,103 - log -INFO - The Text Of The OrangeHRMApplication Home Page PIM is  Matched:-PASS
+2023-05-29 11:10:28,649 - log -INFO - **** Chrome Browser Closed Successfully ****
+2023-05-29 11:11:19,373 - log -INFO - ****Chrome Browser Launched SuccessFully ****
+2023-05-29 11:11:21,939 - log -INFO - Validating LogIn Functionality
+2023-05-29 11:11:21,953 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-29 11:11:23,175 - log -INFO - Validating LogIn Functionality
+2023-05-29 11:11:23,185 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-29 11:11:24,794 - log -INFO - Validating LogIn Functionality
+2023-05-29 11:11:24,801 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-29 11:11:26,387 - log -INFO - Validating LogIn Functionality
+2023-05-29 11:11:26,398 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-29 11:11:29,048 - log -INFO - Validating LogIn Functionality
+2023-05-29 11:11:29,054 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-29 11:11:29,129 - log -INFO - The Actual Text Of The OrangeHRM Application Home Page PIM is:- PIM
+2023-05-29 11:11:29,134 - log -INFO - The Expected Text Of The OrangeHRM Application Home Page PIM is:- PIM
+2023-05-29 11:11:29,142 - log -INFO - The Text Of The OrangeHRMApplication Home Page PIM is  Matched:-PASS
+2023-05-29 11:11:29,598 - log -INFO - **** Chrome Browser Closed Successfully ****
+2023-05-29 11:14:42,600 - log -INFO - ****Chrome Browser Launched SuccessFully ****
+2023-05-29 11:14:45,154 - log -INFO - Validating LogIn Functionality
+2023-05-29 11:14:45,164 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-29 11:14:46,707 - log -INFO - Validating LogIn Functionality
+2023-05-29 11:14:46,716 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-29 11:14:48,094 - log -INFO - Validating LogIn Functionality
+2023-05-29 11:14:48,108 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-29 11:14:49,493 - log -INFO - Validating LogIn Functionality
+2023-05-29 11:14:49,500 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-29 11:14:52,053 - log -INFO - Validating LogIn Functionality
+2023-05-29 11:14:52,058 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-29 11:14:52,125 - log -INFO - The Actual Text Of The OrangeHRM Application Home Page PIM is:- PIM
+2023-05-29 11:14:52,129 - log -INFO - The Expected Text Of The OrangeHRM Application Home Page PIM is:- PIM
+2023-05-29 11:14:52,138 - log -INFO - The Text Of The OrangeHRMApplication Home Page PIM is  Matched:-PASS
+2023-05-29 11:14:53,516 - log -INFO - The Actual Text Of The AddEmployee Header Text is:- Add Employee
+2023-05-29 11:14:53,525 - log -INFO - The Expected Text Of The AddEmployee Header Text is:- Add Employee
+2023-05-29 11:14:53,530 - log -INFO - The Text Of The AddEmployee Header Text is Matched - PASS
+2023-05-29 11:14:53,537 - log -INFO -  Validating AddEmployee Header Text Successfull - Naviagated to AddEmployee Page
+2023-05-29 11:14:53,693 - log -INFO - **** Chrome Browser Closed Successfully ****
+2023-05-29 11:15:33,454 - log -INFO - ****Chrome Browser Launched SuccessFully ****
+2023-05-29 11:15:43,929 - log -INFO - **** Chrome Browser Closed Successfully ****
+2023-05-29 11:16:06,466 - log -INFO - ****Chrome Browser Launched SuccessFully ****
+2023-05-29 11:16:09,113 - log -INFO - Validating LogIn Functionality
+2023-05-29 11:16:09,127 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-29 11:16:10,486 - log -INFO - Validating LogIn Functionality
+2023-05-29 11:16:10,496 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-29 11:16:11,912 - log -INFO - Validating LogIn Functionality
+2023-05-29 11:16:11,927 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-29 11:16:13,360 - log -INFO - Validating LogIn Functionality
+2023-05-29 11:16:13,373 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-29 11:16:15,918 - log -INFO - Validating LogIn Functionality
+2023-05-29 11:16:15,922 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-29 11:16:15,996 - log -INFO - The Actual Text Of The OrangeHRM Application Home Page PIM is:- PIM
+2023-05-29 11:16:16,001 - log -INFO - The Expected Text Of The OrangeHRM Application Home Page PIM is:- PIM
+2023-05-29 11:16:16,010 - log -INFO - The Text Of The OrangeHRMApplication Home Page PIM is  Matched:-PASS
+2023-05-29 11:16:17,371 - log -INFO - The Actual Text Of The AddEmployee Header Text is:- Add Employee
+2023-05-29 11:16:17,380 - log -INFO - The Expected Text Of The AddEmployee Header Text is:- Add Employee
+2023-05-29 11:16:17,386 - log -INFO - The Text Of The AddEmployee Header Text is Matched - PASS
+2023-05-29 11:16:17,390 - log -INFO -  Validating AddEmployee Header Text Successfull - Naviagated to AddEmployee Page
+2023-05-29 11:16:17,560 - log -INFO - **** Chrome Browser Closed Successfully ****
+2023-05-29 12:29:55,730 - log -INFO - ****Chrome Browser Launched SuccessFully ****
+2023-05-29 12:29:58,431 - log -INFO - Validating LogIn Functionality
+2023-05-29 12:29:58,438 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-29 12:30:00,558 - log -INFO - Validating LogIn Functionality
+2023-05-29 12:30:00,571 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-29 12:30:02,194 - log -INFO - Validating LogIn Functionality
+2023-05-29 12:30:02,211 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-29 12:30:03,906 - log -INFO - Validating LogIn Functionality
+2023-05-29 12:30:03,917 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-29 12:30:12,767 - log -INFO - Validating LogIn Functionality
+2023-05-29 12:30:12,772 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-29 12:30:12,851 - log -INFO - The Actual Text Of The OrangeHRM Application Home Page PIM is:- PIM
+2023-05-29 12:30:12,856 - log -INFO - The Expected Text Of The OrangeHRM Application Home Page PIM is:- PIM
+2023-05-29 12:30:12,865 - log -INFO - The Text Of The OrangeHRMApplication Home Page PIM is  Matched:-PASS
+2023-05-29 12:30:16,321 - log -INFO - The Actual Text Of The AddEmployee Header Text is:- Add Employee
+2023-05-29 12:30:16,331 - log -INFO - The Expected Text Of The AddEmployee Header Text is:- Add Employee
+2023-05-29 12:30:16,339 - log -INFO - The Text Of The AddEmployee Header Text is Matched - PASS
+2023-05-29 12:30:16,345 - log -INFO -  Validating AddEmployee Header Text Successfull - Naviagated to AddEmployee Page
+2023-05-29 12:30:16,567 - log -INFO - **** Chrome Browser Closed Successfully ****
+2023-05-30 13:06:18,484 - log -INFO - ****Chrome Browser Launched SuccessFully ****
+2023-05-30 13:06:21,432 - log -INFO - Validating LogIn Functionality
+2023-05-30 13:06:21,438 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-30 13:06:23,302 - log -INFO - Validating LogIn Functionality
+2023-05-30 13:06:23,315 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-30 13:06:26,313 - log -INFO - Validating LogIn Functionality
+2023-05-30 13:06:26,327 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-30 13:06:29,741 - log -INFO - Validating LogIn Functionality
+2023-05-30 13:06:29,756 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-30 13:06:39,552 - log -INFO - Validating LogIn Functionality
+2023-05-30 13:06:39,556 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-30 13:06:39,629 - log -INFO - The Actual Text Of The OrangeHRM Application Home Page PIM is:- PIM
+2023-05-30 13:06:39,633 - log -INFO - The Expected Text Of The OrangeHRM Application Home Page PIM is:- PIM
+2023-05-30 13:06:39,642 - log -INFO - The Text Of The OrangeHRMApplication Home Page PIM is  Matched:-PASS
+2023-05-30 13:06:42,844 - log -INFO - The Actual Text Of The AddEmployee Header Text is:- Add Employee
+2023-05-30 13:06:42,852 - log -INFO - The Expected Text Of The AddEmployee Header Text is:- Add Employee
+2023-05-30 13:06:42,865 - log -INFO - The Text Of The AddEmployee Header Text is Matched - PASS
+2023-05-30 13:06:42,872 - log -INFO -  Validating AddEmployee Header Text Successfull - Naviagated to AddEmployee Page
+2023-05-30 13:06:43,067 - log -INFO - **** Chrome Browser Closed Successfully ****
+2023-05-31 11:56:24,519 - log -INFO - ****Chrome Browser Launched SuccessFully ****
+2023-05-31 11:56:26,923 - log -INFO - Validating LogIn Functionality
+2023-05-31 11:56:26,937 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-31 11:56:29,130 - log -INFO - Validating LogIn Functionality
+2023-05-31 11:56:29,139 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-31 11:56:30,635 - log -INFO - Validating LogIn Functionality
+2023-05-31 11:56:30,646 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-31 11:56:32,592 - log -INFO - Validating LogIn Functionality
+2023-05-31 11:56:32,604 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-31 11:56:41,327 - log -INFO - Validating LogIn Functionality
+2023-05-31 11:56:41,332 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-31 11:56:41,339 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-31 11:56:41,427 - log -INFO - The Actual Text Of The OrangeHRM Application Home Page Admin is:- Admin
+2023-05-31 11:56:41,431 - log -INFO - The Expected Text Of The OrangeHRM Application Home Page Admin is:- Admin
+2023-05-31 11:56:41,442 - log -INFO - The Text Of The OrangeHRMApplication Home Page Admin is Matched:-PASS
+2023-05-31 11:56:41,770 - log -INFO -  Validating Home Page Admin Text Successfull - Naviagated to Home Page
+2023-05-31 11:56:42,014 - log -INFO - **** Chrome Browser Closed Successfully ****
+2023-05-31 11:56:44,056 - log -INFO - ****Chrome Browser Launched SuccessFully ****
+2023-05-31 11:56:45,556 - log -INFO - Validating LogIn Functionality
+2023-05-31 11:56:45,571 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-31 11:56:47,437 - log -INFO - Validating LogIn Functionality
+2023-05-31 11:56:47,442 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-31 11:56:49,196 - log -INFO - Validating LogIn Functionality
+2023-05-31 11:56:49,202 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-31 11:56:50,966 - log -INFO - Validating LogIn Functionality
+2023-05-31 11:56:50,971 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-31 11:56:53,758 - log -INFO - Validating LogIn Functionality
+2023-05-31 11:56:53,764 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-31 11:56:53,770 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-31 11:56:53,835 - log -INFO - The Actual Text Of The OrangeHRM Application Home Page PIM is:- PIM
+2023-05-31 11:56:53,840 - log -INFO - The Expected Text Of The OrangeHRM Application Home Page PIM is:- PIM
+2023-05-31 11:56:53,846 - log -INFO - The Text Of The OrangeHRMApplication Home Page PIM is  Matched:-PASS
+2023-05-31 11:56:54,156 - log -INFO -  Validating Home Page PIM Text Successfull - Naviagated to Home Page
+2023-05-31 11:56:54,374 - log -INFO - **** Chrome Browser Closed Successfully ****
+2023-05-31 11:56:56,268 - log -INFO - ****Chrome Browser Launched SuccessFully ****
+2023-05-31 11:56:57,664 - log -INFO - Validating LogIn Functionality
+2023-05-31 11:56:57,672 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-31 11:56:59,264 - log -INFO - Validating LogIn Functionality
+2023-05-31 11:56:59,270 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-31 11:57:01,074 - log -INFO - Validating LogIn Functionality
+2023-05-31 11:57:01,080 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-31 11:57:02,761 - log -INFO - Validating LogIn Functionality
+2023-05-31 11:57:02,765 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-31 11:57:05,545 - log -INFO - Validating LogIn Functionality
+2023-05-31 11:57:05,549 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-31 11:57:05,554 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-31 11:57:05,615 - log -INFO - The Actual Text Of The OrangeHRM Application Home Page Leave is:- Leave
+2023-05-31 11:57:05,618 - log -INFO - The Expected Text Of The OrangeHRM Application Home Page Leave is:- Leave
+2023-05-31 11:57:05,624 - log -INFO - The Text Of The OrangeHRMApplication Home Page Leave is  Matched:-PASS
+2023-05-31 11:57:05,912 - log -INFO -  Validating Home Page Leave Text Successfull - Naviagated to Home Page
+2023-05-31 11:57:06,100 - log -INFO - **** Chrome Browser Closed Successfully ****
+2023-05-31 11:57:08,118 - log -INFO - ****Chrome Browser Launched SuccessFully ****
+2023-05-31 11:57:09,706 - log -INFO - Validating LogIn Functionality
+2023-05-31 11:57:09,714 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-31 11:57:11,285 - log -INFO - Validating LogIn Functionality
+2023-05-31 11:57:11,292 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-31 11:57:13,158 - log -INFO - Validating LogIn Functionality
+2023-05-31 11:57:13,163 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-31 11:57:15,077 - log -INFO - Validating LogIn Functionality
+2023-05-31 11:57:15,084 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-31 11:57:17,795 - log -INFO - Validating LogIn Functionality
+2023-05-31 11:57:17,799 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-31 11:57:17,803 - log -INFO - Validation of LogIn functionality Successfull
+2023-05-31 11:57:17,862 - log -INFO - The Actual Text Of The OrangeHRM Application Home Page Time is:- Time
+2023-05-31 11:57:17,865 - log -INFO - The Expected Text Of The OrangeHRM Application Home Page time is:- Time
+2023-05-31 11:57:17,869 - log -INFO - The Text Of The OrangeHRMApplication Home Page Time is  Matched:-PASS
+2023-05-31 11:57:18,168 - log -INFO -  Validating Home Page Time Text Successfull - Naviagated to Home Page
+2023-05-31 11:57:18,351 - log -INFO - **** Chrome Browser Closed Successfully ****

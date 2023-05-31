@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-05-27T12:31:41 IST" name="Default suite" finished-at="2023-05-27T12:32:00 IST" duration-ms="18809">
+    <groups>
+    </groups>
+    <test started-at="2023-05-27T12:31:41 IST" name="Default test" finished-at="2023-05-27T12:32:00 IST" duration-ms="18809">
+      <class name="com.TestCases.LogInTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.TestCases.LogInTest@16a0ee18]" started-at="2023-05-27T12:31:41 IST" name="setUp" finished-at="2023-05-27T12:31:45 IST" duration-ms="3663" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="oHRMApplicationLogInPageValidationTest()[pri:0, instance:com.TestCases.LogInTest@16a0ee18]" started-at="2023-05-27T12:31:45 IST" name="oHRMApplicationLogInPageValidationTest" description="LogIn Page Validation Test" finished-at="2023-05-27T12:31:47 IST" duration-ms="1885" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- oHRMApplicationLogInPageValidationTest -->
+        <test-method signature="oHRMApplicationLogInPageLogInTest()[pri:1, instance:com.TestCases.LogInTest@16a0ee18]" started-at="2023-05-27T12:31:47 IST" name="oHRMApplicationLogInPageLogInTest" description="LogIn Test" finished-at="2023-05-27T12:31:58 IST" duration-ms="10678" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- oHRMApplicationLogInPageLogInTest -->
+        <test-method signature="oHRMApplicationHomePagelogOutTest()[pri:8, instance:com.TestCases.LogInTest@16a0ee18]" started-at="2023-05-27T12:31:58 IST" name="oHRMApplicationHomePagelogOutTest" description="LogOut Test" finished-at="2023-05-27T12:32:00 IST" duration-ms="2230" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- oHRMApplicationHomePagelogOutTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.TestCases.LogInTest@16a0ee18]" started-at="2023-05-27T12:32:00 IST" name="tearDown" finished-at="2023-05-27T12:32:00 IST" duration-ms="190" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.TestCases.LogInTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

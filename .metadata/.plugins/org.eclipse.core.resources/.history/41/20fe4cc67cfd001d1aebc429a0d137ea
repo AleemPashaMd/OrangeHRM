@@ -1,0 +1,29 @@
+package com.OrangeHRMApplicationWebPagesTests;
+
+import java.io.IOException;
+
+import org.testng.annotations.Test;
+
+import com.OrangeHRMApplicationWebPages.OrangeHRMLogInPage;
+import com.Utility.Log;
+
+public class OrangeHRMAddEmployeePageTest extends OrangeHRMLogInPage {
+	
+	OrangeHRMHomePageTest homePage;
+	OrangeHRMAddEmployeePageTest addEmployee;
+	
+
+	@Test(priority=1,description="Validating AddEmployeeText")
+	public void validatingAddEmployeeHeaderTextTest() throws IOException
+	{
+		homePage=new OrangeHRMHomePageTest();
+		homePage.validatingHomePagePIMTextTest();
+		
+		addEmployee=new OrangeHRMAddEmployeePageTest();
+		addEmployee.validatingAddEmployeeHeaderTextTest();
+		
+		Log.info(" Validating AddEmployee Header Text Successfull - Naviagated to AddEmployee Page");
+		
+	}
+	
+}

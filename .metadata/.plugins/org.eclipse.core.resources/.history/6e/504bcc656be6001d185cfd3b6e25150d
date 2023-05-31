@@ -1,0 +1,110 @@
+package com.OrangeHRM;
+
+import java.io.FileInputStream;
+import java.io.IOException;
+
+import org.apache.poi.ss.usermodel.Cell;
+import org.apache.poi.ss.usermodel.Row;
+import org.apache.poi.xssf.usermodel.XSSFSheet;
+import org.apache.poi.xssf.usermodel.XSSFWorkbook;
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.chrome.ChromeDriver;
+
+public class HomePage_AddEmployee {
+	
+	public static void main(String[] args) throws IOException {
+		
+		WebDriver driver;
+		String applicationUrlAddress="http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/auth/login";
+		
+		System.setProperty("webdriver.chrome.driver","./browserDriverFiles/chromedriver.exe");
+		driver=new ChromeDriver();
+		driver.get(applicationUrlAddress);
+		
+		driver.manage().window().maximize();
+		
+		String OHRMHomePageTitle=driver.getTitle();
+
+		String expected_OHRMHomePage="OrangeHRM";
+		System.out.println("The expected title of the ORHMHomePage is:-"+expected_OHRMHomePage);
+		String actual_ORHMHomePage=OHRMHomePageTitle;
+		System.out.println("The expected title of the ORHMHomePage is:-"+actual_ORHMHomePage);
+		
+		if(actual_ORHMHomePage.equals(expected_OHRMHomePage))
+		{
+			System.out.println("The title of the OHRMHomePage is matched:-Pass");
+		}
+		else
+		{
+			System.out.println("The title of the OHRMHomePage is Not matched:-Fail");
+		}
+		String OHRMHomePageUrlAddress=driver.getCurrentUrl();
+		
+		String expected_ORHMHomePageUrlAddress="orangehrm-4.2.0.1";
+		System.out.println("The expected Url of the OHRMHomePage is:-"+expected_ORHMHomePageUrlAddress);
+		String actual_ORHMHomePageUrlAddress=OHRMHomePageUrlAddress;
+		System.out.println("The actual Url of the OHRMHomePage is:-"+OHRMHomePageUrlAddress);
+		
+		if(actual_ORHMHomePageUrlAddress.contains(expected_ORHMHomePageUrlAddress))
+		{
+			System.out.println("The Url of the OHRMHomePage is matched:-Pass");
+		}
+		else
+		{
+			System.out.println("The Url of the OHRMHomePage is Not matched:-Fail");
+		}
+		By LoginPanelLocator=By.id("logInPanelHeading");
+		WebElement LoginPanel=driver.findElement(LoginPanelLocator);
+		
+		String expected_OHRMHomePageLogInPanelText="LOGIN Panel";
+		System.out.println("The expected Text of the OHRMHomePageLogInPanel is:-"+expected_OHRMHomePageLogInPanelText);
+		String actual_OHRMHomePageLogInPanelText=LoginPanel.getText();
+		System.out.println("The actual Text of the OHRMHomePageLogInPanel is:-"+actual_OHRMHomePageLogInPanelText);
+
+        if(actual_OHRMHomePageLogInPanelText.equals(expected_OHRMHomePageLogInPanelText))
+        {
+        	System.out.println("The Text of the OHRMHomePageLogInPanel is matched :-Pass");
+        }
+        else
+        {
+        	System.out.println("The Text of the OHRMHomePageLogInPanel is Not matched :-Fail");
+        }
+        FileInputStream testDataFile=new FileInputStream("./src/com/ExelFiles/WriteOperation.xlsx");
+		XSSFWorkbook workBook=new XSSFWorkbook(testDataFile);
+		XSSFSheet testDatasheet=workBook.getSheet("Sheet1");
+		Row testDataRow=testDatasheet.getRow(1);
+		
+		Cell userNameTestDataRowOfCell=testDataRow.getCell(0);
+		String userNameTestData=userNameTestDataRowOfCell.getStringCellValue();
+		System.out.println("The UserName is:-"+userNameTestData);
+		driver.findElement(By.id("txtUsername")).sendKeys(userNameTestData);
+		
+		Cell passwordTestDataRowOfCell1=testDataRow.getCell(1);
+		String passwordTestData=passwordTestDataRowOfCell1.getStringCellValue();
+		System.out.println("The Password is:-"+passwordTestData);
+		driver.findElement(By.name("txtPassword")).sendKeys(passwordTestData);
+		
+		driver.findElement(By.className("button")).click();
+		
+		By AdminLocator=By.linkText("Admin");
+		WebElement Admin=driver.findElement(AdminLocator);
+		
+		String expected_OrangeHRMHomePageText="Admin";
+		System.out.println("The expected Title of the OrangeHRMHomePage is:-"+expected_OrangeHRMHomePageText);
+		String actual_OrangeHRMHomePageText=Admin.getText();
+		System.out.println("The actual Title of the OrangeHRMHomePage is:-"+actual_OrangeHRMHomePageText);
+		
+		if(actual_OrangeHRMHomePageText.equals(expected_OrangeHRMHomePageText))
+		{
+			System.out.println("The Text of the OrangeHRMHomePage is  matched:-Pass");
+		}
+		else
+		{
+			System.out.println("The Text of the OrangeHRMHomePage is Not matched:-Fail");
+		}
+		
+	}
+
+}
